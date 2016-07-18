@@ -1,11 +1,10 @@
 # Spam Response Automation
 
-'''
 ******************************** SPAM Response Automation ********************************
 
 Please follow the following guidelines to successfully use the SAPM Response Automation
 
-1. Please make sure the spam@nbcuni.com mailbox is set as default mailbox in Outlook.exe 
+1. Please make sure the spam[@]company-website.com mailbox is set as default mailbox in Outlook.exe 
 	(if not the script will fetch unread emails from your default mailbox; leading to 
 	 unexpected results)
 
@@ -15,10 +14,10 @@ Please follow the following guidelines to successfully use the SAPM Response Aut
 
 #Technical Details:
 
-#Requirements:
+##Requirements:
 Windows OS, python 2.x with packages win32com.client, BeautifulSoup
 
-#Functions:
+##Functions:
 1. sendResponse() - Function to send the responses to the user or to malware lab.
 	Args:
 	1. recipient -  Recipient of the message
@@ -58,4 +57,4 @@ improvement. Thank you!!!!
 
 
 ******************************** SPAM Response Automation ********************************
-'''
+
