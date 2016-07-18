@@ -7,7 +7,7 @@ __author__ = 'AR'
 
 Please follow the following guidelines to successfully use the SAPM Response Automation
 
-1. Please make sure the spam@nbcuni.com mailbox is set as default mailbox in Outlook.exe 
+1. Please make sure the spam[@]company-website.com mailbox is set as default mailbox in Outlook.exe 
 	(if not the script will fetch unread emails from your default mailbox; leading to 
 	 unexpected results)
 
@@ -15,12 +15,12 @@ Please follow the following guidelines to successfully use the SAPM Response Aut
 3. To stop the program simply close the program window or kill python process (careful)
 
 
-Technical Details:
+#Technical Details:
 
-Requirements:
+##Requirements:
 Windows OS, python 2.x with packages win32com.client, BeautifulSoup
 
-Functions:
+##Functions:
 1. sendResponse() - Function to send the responses to the user or to malware lab.
 	Args:
 	1. recipient -  Recipient of the message
@@ -55,7 +55,7 @@ Functions:
 	Args/ Returns None
 
 
-Please contact Amit Raut (amit.raut[at]nbcuni.com/ amitraut007[at]me.com) for help/ 
+Please contact Amit Raut amitraut007[@]me.com for help/ 
 improvement. Thank you!!!!
 
 
