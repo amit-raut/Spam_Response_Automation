@@ -52,7 +52,7 @@ Windows OS, python 2.x with packages win32com.client, BeautifulSoup
 	Args/ Returns None
 
 
-Please contact Amit Raut amitraut007[at]me.com for help/ 
+Please contact Amit Raut amitraut007[@]me.com for help/ 
 improvement. Thank you!!!!
 
 
