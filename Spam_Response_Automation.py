@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 
 __author__ = 'AR'
 
@@ -63,10 +64,20 @@ improvement. Thank you!!!!
 
 import win32com.client, os, re, urllib2, urllib, sys, time
 from BeautifulSoup import BeautifulSoup
+import datetime as dt
+
+
+# Class to log stdout to logfile
+class Tee(object):
+    def __init__(self, *files):
+        self.files = files
+    def write(self, obj):
+        for f in self.files:
+            f.write(obj)
 
 
 # Function to send the responses to the users or to malware lab
-def sendResponse(recipient, subject, attachment):
+def sendResponse(recipient, recipient_name, subject, attachment):
 	outlook = win32com.client.Dispatch("Outlook.Application")
 
 	message = outlook.CreateItem(0)
@@ -74,7 +85,7 @@ def sendResponse(recipient, subject, attachment):
 	message.Subject = 'RE: ' + subject
 
 	# Sending the email for further analysis to the Malware Lab
-	if recipient == 'spam.analysis@nbcuni.com':
+	if recipient == 'spam.analysis@company-website.com':
 
 		message.Body = '''
 Please perform the analysis of the attached email message. 
@@ -82,6 +93,25 @@ Please perform the analysis of the attached email message.
 Thank you!
 Response Operation Center
 		'''
+	elif "Urgent Attention" in subject:
+		message.body = '''
+Hello,
+
+Thank you for identifying this as a suspicious email. Your awareness and actions are important. You are helping to protect personal and company data while preventing malware from being installed on your computer. 
+ 
+<Conpany_Name> Technology SAFE sent this reported email to you and your colleagues as a "Phishing teaching exercise."  Phishing emails may look legitimate or appear to come from well-known companies but can be dangerous because they are designed to gather your private information or gain access to company data. You did the right thing by sending this email to SPAM@company.com. 
+ 
+Please continue to be diligent in reporting suspicious messages.
+
+For more information on phishing and other tips to keep you cyber safe, visit our website at http://company-website.com/SAFE.
+
+If you have any questions, please contact us.
+
+Technology SAFE
+http://company-website.com/SAFE
+
+
+'''
 
 	# Sending the SPAM resonse to the users
 	else: 					
@@ -90,19 +120,23 @@ Hi,
 
 Thank you for reporting this spam email to the Technology SAFE team. We understand the annoyance associated with spam emails like these, and our analysts are working on having the email blocked against future attempts.
 
-If you have any questions, please contact the NBCUniversal Technology SAFE Response Team at SAFE@nbcuni.com or 855-650-SAFE (7233)
+If you have any questions, please contact the Technology SAFE Response Team at SAFE@company-website.com 
 
 Please continue to report such emails to us. We thank you for your diligence and awareness.
 
 Thanks,
-Response Operation Center
+SAFE Team
 		'''
 
-		if attachment != None:
-			message.Attachments.Add(attachment)
+	if attachment != None:
+		message.Attachments.Add(attachment)
 
-		message.Send()
-		print '\nResponse sent to', recipient, '\n'
+	message.Send()
+
+	if recipient == 'spam.analysis@nbcuni.com':
+		print '\n{0:90} ==> {1:10}\n'.format('Response sent to ' + str(recipient_name), 'Analysis')
+	else:
+		print '\n{0:90} ==> {1:10}\n'.format('Response sent to ' + str(recipient_name), 'SPAM')
 
 
 
@@ -147,7 +181,7 @@ def domainFormatter(msgPath):
 	if count_attachments > 0:
 	    for item in xrange(count_attachments):
 	        
-	        att_Name = message.Attachments.Item(item + 1).Filename
+	        att_Name = message.Attachments.Item(item + 1).Filename.lower()
 
 	        # If attachment contains original email
 	        # Save mail temporarily in \AppData and vett the domains and attachments present 
@@ -159,7 +193,7 @@ def domainFormatter(msgPath):
 	         att_Name.endswith('.pptx') or att_Name.endswith('.pptm') or att_Name.endswith('.potm') or \
 	         att_Name.endswith('.ppam') or att_Name.endswith('.ppsm') or att_Name.endswith('.sldm') or \
 	         att_Name.endswith('.pdf') or att_Name.endswith('.html') or att_Name.endswith('.zip') or \
-	         att_Name.endswith('.htm') or att_Name.endswith('.bin'):
+	         att_Name.endswith('.htm') or att_Name.endswith('.bin') or att_Name.endswith('.xls'):
 
 	        	return 2
 	        	# sendResponse() # Send the message for analysis
@@ -207,9 +241,18 @@ def main():
 
 	for message in reversed(messages):
 		message.UnRead = False
+		
+		# Removing responses to Automatic replies and mails from SAFE, SPAM and ROC (Possible infinite loop)
+		if 'Automatic reply'.lower() in str(message.subject.encode("ascii", "ignore")).lower() or \
+		   'Response'.lower() in str(message.sender).lower() or \
+		   'Spam'.lower() in str(message.sender).lower() or \
+		   'SAFE'.lower() in str(message.sender).lower():
+			break
+
+		# print '{0:*^119s}'.format("*")
 		responseCode = 0
-		print 'Email Sender: ', message.sender
-		print 'Email Subhect: ', message.subject
+		print 'Email Sender: ', str(message.sender) #,message.SenderEmailAddress
+		print 'Email Subject: ', str(message.subject.encode("ascii", "ignore"))
 		print '\n{0:90} ==> {1:10}'.format('URLvoid scanned URL', 'URLvoid Rating') 
 
 		print
@@ -221,7 +264,7 @@ def main():
 			print 'INFO: Attachments found. Verifying now....\n'
 			for item in xrange(count_attachments):
 		        
-				att_Name = message.Attachments.Item(item + 1).Filename
+				att_Name = message.Attachments.Item(item + 1).Filename.lower()
 
 				# If attachment contains original email
 				# Save mail temporarily in current working directory and vett the domains and attachments present 
@@ -231,10 +274,11 @@ def main():
 				 att_Name.endswith('.dotm') or att_Name.endswith('.doc') or att_Name.endswith('.xlsx') or \
 				 att_Name.endswith('.xltm') or att_Name.endswith('.xlsb') or att_Name.endswith('.xlam') or \
 				 att_Name.endswith('.pptx') or att_Name.endswith('.pptm') or att_Name.endswith('.potm') or \
-				 att_Name.endswith('.ppam') or att_Name.endswith('.ppsm') or att_Name.endswith('.sldm') or \
-				 att_Name.endswith('.pdf') or att_Name.endswith('.html') or att_Name.endswith('.zip') or \
-				 att_Name.endswith('.htm') or att_Name.endswith('.bin'):
+				 att_Name.endswith('.pdf') or att_Name.endswith('.ppsm') or att_Name.endswith('.sldm') or \
+				 att_Name.endswith('.ppam') or att_Name.endswith('.html') or att_Name.endswith('.zip') or \
+				 att_Name.endswith('.htm') or att_Name.endswith('.bin') or att_Name.endswith('.xls'):
 
+				 	analysis_done = True
 				 	responseCode = 1
 					break
 
@@ -249,10 +293,12 @@ def main():
 					else:
 						responseCode = 0
 						
-					# Removing the temporary attached email
+					# Removing the temporary saved email
 					if os.path.isfile(os.getcwd() + '\\' + att_Name):
 						os.remove(os.getcwd() + '\\' + att_Name)
 					
+					if responseCode != 0:
+						break
 
 		# Processing the forwarded emails
 		if not analysis_done:
@@ -286,20 +332,25 @@ def main():
 		
 		if responseCode:
 			message.categories = 'Yellow Category (Sent for Analysis)'
-			sendResponse('amit.raut@nbcuni.com', message.Subject, message) # Send the message for analysis			
+			sendResponse('spam.analysis@company-website.com', 'spam.analysis@company-webiste.com', message.Subject, message) # Send the message for analysis	
 		else:
 			message.categories = 'Spam/Legit'
-			sendResponse('amit.raut@nbcuni.com', message.Subject, None) # message.SenderEmailAddress # Send standard response to the user
+			sendResponse(message.SenderEmailAddress, message.sender, message.Subject, None) # message.SenderEmailAddress # Send standard response to the user
 
+		print '{0:*^120s}'.format("*")
 		time.sleep(0.1)
 
 # Python Main Function
 if __name__ == '__main__':
 
-	banner = ' SPAM Response Automation '
+	f = open('logfile.txt', 'a')
+	backup = sys.stdout
+	sys.stdout = Tee(sys.stdout, f)
+
+	banner = ' SPAM Response Automation ' + str(dt.datetime.now().date()) + ' '
 	print '{0:*^120s}'.format(banner)
 	print '\nThe program will continue to run forever unless you close this window or \nkill the python process (CAUTION: You may stop other python programs). \n\nThank you!\n\n'
-
+	print '{0:*^120s}'.format("*")
 	# Continue to run the program forever
 	while True:
 		main()
