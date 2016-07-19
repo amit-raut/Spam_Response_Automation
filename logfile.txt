@@ -1,95 +1,3 @@
-***************************************** SPAM Response Automation 2016-07-02 ******************************************
-
-The program will continue to run forever unless you close this window or 
-kill the python process (CAUTION: You may stop other python programs). 
-
-Thank you!
-
-
-***********************************************************************************************************************
-Email Sender:  Raut, Amit (NBCUniversal)
-Email Subhect:  TEST Mail
-
-URLvoid scanned URL                                                                        ==> URLvoid Rating
-
-http://www.urlvoid.com/scan/yahoo.com                                                      ==> 0/25      
-
-Response sent to Raut, Amit (NBCUniversal) 
-
-***********************************************************************************************************************
-Email Sender:  Raut, Amit (NBCUniversal)
-Email Subhect:  TEST Mail
-
-URLvoid scanned URL                                                                        ==> URLvoid Rating
-
-http://www.urlvoid.com/scan/yahoo.com                                                      ==> 0/25      
-
-Response sent to Raut, Amit (NBCUniversal) 
-
-***************************************** SPAM Response Automation 2016-07-02 ******************************************
-
-The program will continue to run forever unless you close this window or 
-kill the python process (CAUTION: You may stop other python programs). 
-
-Thank you!
-
-
-***********************************************************************************************************************
-Email Sender:  Raut, Amit (NBCUniversal)
-Email Subhect:  TEST Mail
-
-URLvoid scanned URL                                                                        ==> URLvoid Rating
-
-http://www.urlvoid.com/scan/yahoo.com                                                      ==> 0/25      
-
-Response sent to Raut, Amit (NBCUniversal) 
-
-***************************************** SPAM Response Automation 2016-07-02 ******************************************
-
-The program will continue to run forever unless you close this window or 
-kill the python process (CAUTION: You may stop other python programs). 
-
-Thank you!
-
-
-***********************************************************************************************************************
-Email Sender:  Raut, Amit (NBCUniversal)
-Email Subhect:  TEST Mail
-
-URLvoid scanned URL                                                                        ==> URLvoid Rating
-
-http://www.urlvoid.com/scan/yahoo.com                                                      ==> 0/25      
-
-Response sent to Raut, Amit (NBCUniversal)
-                                               ==> SPAM      
-***************************************** SPAM Response Automation 2016-07-02 ******************************************
-
-The program will continue to run forever unless you close this window or 
-kill the python process (CAUTION: You may stop other python programs). 
-
-Thank you!
-
-
-***********************************************************************************************************************
-Email Sender:  Raut, Amit (NBCUniversal)
-Email Subhect:  TEST Mail
-
-URLvoid scanned URL                                                                        ==> URLvoid Rating
-
-http://www.urlvoid.com/scan/yahoo.com                                                      ==> 0/25      
-
-Response sent to Raut, Amit (NBCUniversal)                                                 ==> SPAM      
-
-***********************************************************************************************************************
-Email Sender:  Raut, Amit (NBCUniversal)
-Email Subhect:  TEST Mail
-
-URLvoid scanned URL                                                                        ==> URLvoid Rating
-
-ERROR <URLVoid>:                                                                           ==> [Errno 10054] An existing connection was forcibly closed by the remote host
-
-Response sent to Raut, Amit (NBCUniversal)                                                 ==> SPAM      
-
 ***************************************** SPAM Response Automation 2016-07-05 ******************************************
 
 The program will continue to run forever unless you close this window or 
@@ -99,7 +7,7 @@ Thank you!
 
 
 ***********************************************************************************************************************
-Email Sender:  Affiliate Operations (NBCUniversal)
+Email Sender:  Affiliate Operations (Company_Name)
 Email Subhect:  FW: CONGRATULATIONS, YOU HAVE WON $590,000.00 SGD IN THE 2016 SINGAPORE AIRLINE PROMOTIONS
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -107,7 +15,7 @@ URLvoid scanned URL                                                             
 INFO: Attachments found. Verifying now....
 
 
-Response sent to Affiliate Operations (NBCUniversal)                                       ==> SPAM      
+Response sent to Affiliate Operations (Company_Name)                                       ==> SPAM      
 
 ***********************************************************************************************************************
 Email Sender:  Gagneux, Audrey (Focus Features)
@@ -123,7 +31,7 @@ ERROR <URLVoid>:                                                                
 Response sent to Gagneux, Audrey (Focus Features)                                          ==> SPAM      
 
 ***********************************************************************************************************************
-Email Sender:  Stoeckle, Gunnar (NBCUniversal, A+E Networks)
+Email Sender:  Stoeckle, Gunnar (Company_Name, A+E Networks)
 Email Subhect:  WG: Jason.Golubski@aenetworks.de has sent you a file via WeTransfer
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -131,10 +39,10 @@ URLvoid scanned URL                                                             
 http://www.urlvoid.com/scan/assets.wetransfer.net                                          ==> 0/25      
 http://www.urlvoid.com/scan/cubbyusercontent.com                                           ==> 2/25      
 
-Response sent to spam.analysis@nbcuni.com                                                  ==> Analysis  
+Response sent to spam.analysis@Company-Name.com                                                  ==> Analysis  
 
 ***********************************************************************************************************************
-Email Sender:  Naderski, Tim (NBCUniversal)
+Email Sender:  Naderski, Tim (Company_Name)
 Email Subhect:  Suspicious email
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -142,20 +50,20 @@ URLvoid scanned URL                                                             
 INFO: Attachments found. Verifying now....
 
 
-Response sent to spam.analysis@nbcuni.com                                                  ==> Analysis  
+Response sent to spam.analysis@Company-Name.com                                                  ==> Analysis  
 
 ***********************************************************************************************************************
-Email Sender:  Parrish, Kevin (NBCUniversal)
+Email Sender:  Parrish, Kevin (Company_Name)
 Email Subhect:  Fw: Account Suspension Notification (Case lD #AL 26G 086 127)
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
 
 http://www.urlvoid.com/scan/torieclancy.com                                                ==> 1/25      
 
-Response sent to Parrish, Kevin (NBCUniversal)                                             ==> SPAM      
+Response sent to Parrish, Kevin (Company_Name)                                             ==> SPAM      
 
 ***********************************************************************************************************************
-Email Sender:  Cafer, Esra (NBCUniversal)
+Email Sender:  Cafer, Esra (Company_Name)
 Email Subhect:  
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -164,19 +72,19 @@ INFO: Attachments found. Verifying now....
 
 http://www.urlvoid.com/scan/e-meetings.verizonbusiness.com                                 ==> 0/25      
 
-Response sent to Cafer, Esra (NBCUniversal)                                                ==> SPAM      
+Response sent to Cafer, Esra (Company_Name)                                                ==> SPAM      
 
 ***********************************************************************************************************************
-Email Sender:  Jaber, Ziad (NBCUniversal)
+Email Sender:  Jaber, Ziad (Company_Name)
 Email Subhect:  Fwd: CONGRATULATIONS, YOU HAVE WON $590,000.00 SGD IN THE 2016 SINGAPORE AIRLINE PROMOTIONS
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
 
 
-Response sent to Jaber, Ziad (NBCUniversal)                                                ==> SPAM      
+Response sent to Jaber, Ziad (Company_Name)                                                ==> SPAM      
 
 ***********************************************************************************************************************
-Email Sender:  Pasco, Astrid (NBCUniversal)
+Email Sender:  Pasco, Astrid (Company_Name)
 Email Subhect:  
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -184,10 +92,10 @@ URLvoid scanned URL                                                             
 INFO: Attachments found. Verifying now....
 
 
-Response sent to spam.analysis@nbcuni.com                                                  ==> Analysis  
+Response sent to spam.analysis@Company-Name.com                                                  ==> Analysis  
 
 ***********************************************************************************************************************
-Email Sender:  Goodfried, Lauren (NBCUniversal)
+Email Sender:  Goodfried, Lauren (Company_Name)
 Email Subhect:  
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -197,10 +105,10 @@ INFO: Attachments found. Verifying now....
 http://www.urlvoid.com/scan/encrypted-tbn3.gstatic.com                                     ==> 0/25      
 http://www.urlvoid.com/scan/googledrive.com                                                ==> 2/25      
 
-Response sent to spam.analysis@nbcuni.com                                                  ==> Analysis  
+Response sent to spam.analysis@Company-Name.com                                                  ==> Analysis  
 
 ***********************************************************************************************************************
-Email Sender:  Lam, Charles(NBCUniversal)
+Email Sender:  Lam, Charles(Company_Name)
 Email Subhect:  Spam
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -208,7 +116,7 @@ URLvoid scanned URL                                                             
 INFO: Attachments found. Verifying now....
 
 
-Response sent to Lam, Charles(NBCUniversal)                                                ==> SPAM      
+Response sent to Lam, Charles(Company_Name)                                                ==> SPAM      
 
 ************************************************************************************************************************
 ***************************************** SPAM Response Automation 2016-07-05 ******************************************
@@ -232,7 +140,7 @@ http://www.urlvoid.com/scan/e-meetings.verizonbusiness.com                      
 Response sent to Evans, Alison (Carnival Films )                                           ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Hassett, Breck (NBCUniversal)
+Email Sender:  Hassett, Breck (Company_Name)
 Email Subhect:  FW: See Below
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -241,7 +149,7 @@ INFO: Attachments found. Verifying now....
 
 http://www.urlvoid.com/scan/strojegradnja-trpin.com                                        ==> 6/25      
 
-Response sent to spam.analysis@nbcuni.com                                                  ==> Analysis  
+Response sent to spam.analysis@Company-Name.com                                                  ==> Analysis  
 
 ************************************************************************************************************************
 ***************************************** SPAM Response Automation 2016-07-05 ******************************************
@@ -253,13 +161,13 @@ Thank you!
 
 
 ************************************************************************************************************************
-Email Sender:  Response Operations Center (NBCUniversal)
+Email Sender:  Response Operations Center (Company_Name)
 Email Subhect:  RE: Scanned image
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
 
 
-Response sent to Response Operations Center (NBCUniversal)                                 ==> SPAM      
+Response sent to Response Operations Center (Company_Name)                                 ==> SPAM      
 
 ************************************************************************************************************************
 ***************************************** SPAM Response Automation 2016-07-05 ******************************************
@@ -271,13 +179,13 @@ Thank you!
 
 
 ************************************************************************************************************************
-Email Sender:  Spam (NBCUniversal) /O=NBC UNIVERSAL/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=SPAM
+Email Sender:  Spam (Company_Name) /O=NBC UNIVERSAL/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=SPAM
 Email Subhect:  TEST Mail
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
 
 
-Response sent to Spam (NBCUniversal)                                                       ==> SPAM      
+Response sent to Spam (Company_Name)                                                       ==> SPAM      
 
 ************************************************************************************************************************
 ***************************************** SPAM Response Automation 2016-07-05 ******************************************
@@ -298,13 +206,13 @@ Thank you!
 
 
 ************************************************************************************************************************
-Email Sender:  Spam (NBCUniversal) /O=NBC UNIVERSAL/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=SPAM
+Email Sender:  Spam (Company_Name) /O=NBC UNIVERSAL/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=SPAM
 Email Subhect:  TEST Mail
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
 
 
-Response sent to Spam (NBCUniversal)                                                       ==> SPAM      
+Response sent to Spam (Company_Name)                                                       ==> SPAM      
 
 ************************************************************************************************************************
 ***************************************** SPAM Response Automation 2016-07-05 ******************************************
@@ -325,13 +233,13 @@ Thank you!
 
 
 ************************************************************************************************************************
-Email Sender:  Response Operations Center (NBCUniversal) /O=NBC UNIVERSAL/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=RESPONSE OPERATIONS CENTER (NBCUNIVERSAL)89
+Email Sender:  Response Operations Center (Company_Name) /O=NBC UNIVERSAL/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=RESPONSE OPERATIONS CENTER (Company_Name)89
 Email Subject:  TEST Mail
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
 
 
-Response sent to Response Operations Center (NBCUniversal)                                 ==> SPAM      
+Response sent to Response Operations Center (Company_Name)                                 ==> SPAM      
 
 ************************************************************************************************************************
 ***************************************** SPAM Response Automation 2016-07-05 ******************************************
@@ -353,36 +261,36 @@ http://www.urlvoid.com/scan/mandrillapp.com                                     
 Response sent to Nion Hazell (Carnival Films)                                              ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Laskie, Elizabeth (NBCUniversal) Email Subject:  SPAM of Fishing
+Email Sender:  Laskie, Elizabeth (Company_Name) Email Subject:  SPAM of Fishing
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
 
 INFO: Attachments found. Verifying now....
 
 
-Response sent to Laskie, Elizabeth (NBCUniversal)                                          ==> SPAM      
+Response sent to Laskie, Elizabeth (Company_Name)                                          ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Bergman, Cory (NBCUniversal) Email Subject:  Fwd: (8) Incoming Messages On Hold
+Email Sender:  Bergman, Cory (Company_Name) Email Subject:  Fwd: (8) Incoming Messages On Hold
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
 
 http://www.urlvoid.com/scan/nighdesign.com                                                 ==> 5/25      
 
-Response sent to spam.analysis@nbcuni.com                                                  ==> Analysis  
+Response sent to spam.analysis@Company-Name.com                                                  ==> Analysis  
 
 ************************************************************************************************************************
-Email Sender:  Miranda, Alex (NBCUniversal) Email Subject:  FW: Scanned image
+Email Sender:  Miranda, Alex (Company_Name) Email Subject:  FW: Scanned image
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
 
 INFO: Attachments found. Verifying now....
 
 
-Response sent to Miranda, Alex (NBCUniversal)                                              ==> SPAM      
+Response sent to Miranda, Alex (Company_Name)                                              ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Reese, Marcus (NBCUniversal) Email Subject:  FW: Tehnical Support Update
+Email Sender:  Reese, Marcus (Company_Name) Email Subject:  FW: Tehnical Support Update
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
 
@@ -390,29 +298,29 @@ INFO: Attachments found. Verifying now....
 
 http://www.urlvoid.com/scan/laserenacampestre.cl                                           ==> 0/25      
 
-Response sent to Reese, Marcus (NBCUniversal)                                              ==> SPAM      
+Response sent to Reese, Marcus (Company_Name)                                              ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Crets, Heather (NBCUniversal) Email Subject:  FW: Scanned image
+Email Sender:  Crets, Heather (Company_Name) Email Subject:  FW: Scanned image
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
 
 INFO: Attachments found. Verifying now....
 
 
-Response sent to spam.analysis@nbcuni.com                                                  ==> Analysis  
+Response sent to spam.analysis@Company-Name.com                                                  ==> Analysis  
 
 ************************************************************************************************************************
-Email Sender:  Cordova, Jeanne (NBCUniversal) Email Subject:  FW: Jean Cordova
+Email Sender:  Cordova, Jeanne (Company_Name) Email Subject:  FW: Jean Cordova
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
 
 ERROR <URLVoid>:                                                                           ==> 'NoneType' object has no attribute 'text'
 
-Response sent to Cordova, Jeanne (NBCUniversal)                                            ==> SPAM      
+Response sent to Cordova, Jeanne (Company_Name)                                            ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Gnaulati, Ines (NBCUniversal) Email Subject:  FW: Beer 'n' Bytes
+Email Sender:  Gnaulati, Ines (Company_Name) Email Subject:  FW: Beer 'n' Bytes
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
 
@@ -420,17 +328,17 @@ INFO: Attachments found. Verifying now....
 
 http://www.urlvoid.com/scan/dmtrk.net                                                      ==> 0/25      
 
-Response sent to Gnaulati, Ines (NBCUniversal)                                             ==> SPAM      
+Response sent to Gnaulati, Ines (Company_Name)                                             ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Nakahara, Meg (NBCUniversal) Email Subject:  Please block this e-mail address as they send spam. Thank you! 
+Email Sender:  Nakahara, Meg (Company_Name) Email Subject:  Please block this e-mail address as they send spam. Thank you! 
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
 
 INFO: Attachments found. Verifying now....
 
 
-Response sent to Nakahara, Meg (NBCUniversal)                                              ==> SPAM      
+Response sent to Nakahara, Meg (Company_Name)                                              ==> SPAM      
 
 ************************************************************************************************************************
 Email Sender:  Price, Pam (Working Title) Email Subject:  RE: Potentially Spam
@@ -440,10 +348,10 @@ URLvoid scanned URL                                                             
 INFO: Attachments found. Verifying now....
 
 
-Response sent to spam.analysis@nbcuni.com                                                  ==> Analysis  
+Response sent to spam.analysis@Company-Name.com                                                  ==> Analysis  
 
 ************************************************************************************************************************
-Email Sender:  Campbell, Deanna (NBCUniversal) Email Subject:  FW: My News: What A Disney Stake In MLB's Digital Unit Would Mean For ESPN; Verizon trade-in program could net you up to $300
+Email Sender:  Campbell, Deanna (Company_Name) Email Subject:  FW: My News: What A Disney Stake In MLB's Digital Unit Would Mean For ESPN; Verizon trade-in program could net you up to $300
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
 
@@ -457,7 +365,7 @@ http://www.urlvoid.com/scan/static.owler.com                                    
 http://www.urlvoid.com/scan/image4.owler.com                                               ==> 0/25      
 http://www.urlvoid.com/scan/u1941779.ct.sendgrid.net                                       ==> 0/25      
 
-Response sent to Campbell, Deanna (NBCUniversal)                                           ==> SPAM      
+Response sent to Campbell, Deanna (Company_Name)                                           ==> SPAM      
 
 ************************************************************************************************************************
 ***************************************** SPAM Response Automation 2016-07-05 ******************************************
@@ -469,7 +377,7 @@ Thank you!
 
 
 ************************************************************************************************************************
-Email Sender:  Campbell, Deanna (NBCUniversal)
+Email Sender:  Campbell, Deanna (Company_Name)
 Email Subject:  FW: Information/Data Provider survey
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -483,10 +391,10 @@ http://www.urlvoid.com/scan/surveys.com                                         
 ERROR <URLVoid>:                                                                           ==> 'NoneType' object has no attribute 'text'
 http://www.urlvoid.com/scan/unsubscribe.surveys.com                                        ==> 0/25      
 
-Response sent to Campbell, Deanna (NBCUniversal)                                           ==> SPAM      
+Response sent to Campbell, Deanna (Company_Name)                                           ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Nakahara, Meg (NBCUniversal)
+Email Sender:  Nakahara, Meg (Company_Name)
 Email Subject:  Please block this e-mail address as they send spam
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -494,7 +402,7 @@ URLvoid scanned URL                                                             
 INFO: Attachments found. Verifying now....
 
 
-Response sent to Nakahara, Meg (NBCUniversal)                                              ==> SPAM      
+Response sent to Nakahara, Meg (Company_Name)                                              ==> SPAM      
 
 ************************************************************************************************************************
 ***************************************** SPAM Response Automation 2016-07-05 ******************************************
@@ -506,7 +414,7 @@ Thank you!
 
 
 ************************************************************************************************************************
-Email Sender:  Schiehl, Chris (NBCUniversal)
+Email Sender:  Schiehl, Chris (Company_Name)
 Email Subject:  ***************************************** SPAM Response Automation 2016-07-05 ******************************************
 
 The program will continue to run forever unless you close this window or 
@@ -516,7 +424,7 @@ Thank you!
 
 
 ************************************************************************************************************************
-Email Sender:  Schiehl, Chris (NBCUniversal)
+Email Sender:  Schiehl, Chris (Company_Name)
 Email Subject:  ***************************************** SPAM Response Automation 2016-07-05 ******************************************
 
 The program will continue to run forever unless you close this window or 
@@ -535,7 +443,7 @@ Thank you!
 
 
 ************************************************************************************************************************
-Email Sender:  Schiehl, Chris (NBCUniversal)
+Email Sender:  Schiehl, Chris (Company_Name)
 Email Subject:  FW: Mrieux NutriSciences Out of Specification Results Notification 2016_07_04 23hr (AutoSend)
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -544,7 +452,7 @@ INFO: Attachments found. Verifying now....
 
 http://www.urlvoid.com/scan/docs.google.com                                                ==> 2/25      
 
-Response sent to spam.analysis@nbcuni.com                                                  ==> Analysis  
+Response sent to spam.analysis@Company-Name.com                                                  ==> Analysis  
 
 ************************************************************************************************************************
 ***************************************** SPAM Response Automation 2016-07-05 ******************************************
@@ -580,7 +488,7 @@ INFO: Attachments found. Verifying now....
 http://www.urlvoid.com/scan/images.benchmarkemail.com                                      ==> 0/25      
 http://www.urlvoid.com/scan/benchemail.bmetrack.com                                        ==> 2/25      
 
-Response sent to spam.analysis@nbcuni.com                                                  ==> Analysis  
+Response sent to spam.analysis@Company-Name.com                                                  ==> Analysis  
 
 ************************************************************************************************************************
 Email Sender:  Julia Morton
@@ -644,10 +552,10 @@ http://www.urlvoid.com/scan/danube-delta-investment.ro                          
 http://www.urlvoid.com/scan/img.mailinblue.com                                             ==> 0/25      
 http://www.urlvoid.com/scan/docs.google.com                                                ==> 2/25      
 
-Response sent to spam.analysis@nbcuni.com                                                  ==> Analysis  
+Response sent to spam.analysis@Company-Name.com                                                  ==> Analysis  
 
 ************************************************************************************************************************
-Email Sender:  Tesch, Ben (NBCUniversal)
+Email Sender:  Tesch, Ben (Company_Name)
 Email Subject:  FW:       '   ,     
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -655,10 +563,10 @@ URLvoid scanned URL                                                             
 INFO: Attachments found. Verifying now....
 
 
-Response sent to spam.analysis@nbcuni.com                                                  ==> Analysis  
+Response sent to spam.analysis@Company-Name.com                                                  ==> Analysis  
 
 ************************************************************************************************************************
-Email Sender:  Milmoe, Carolyn (NBCUniversal)
+Email Sender:  Milmoe, Carolyn (Company_Name)
 Email Subject:  
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -668,10 +576,10 @@ INFO: Attachments found. Verifying now....
 http://www.urlvoid.com/scan/password-update.com                                            ==> 0/25      
 http://www.urlvoid.com/scan/updates.account-maintenance.com                                ==> 0/25      
 
-Response sent to Milmoe, Carolyn (NBCUniversal)                                            ==> SPAM      
+Response sent to Milmoe, Carolyn (Company_Name)                                            ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Stafford, Stefanie (NBCUniversal)
+Email Sender:  Stafford, Stefanie (Company_Name)
 Email Subject:  Spam Email
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -679,10 +587,10 @@ URLvoid scanned URL                                                             
 INFO: Attachments found. Verifying now....
 
 
-Response sent to Stafford, Stefanie (NBCUniversal)                                         ==> SPAM      
+Response sent to Stafford, Stefanie (Company_Name)                                         ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Gonzalez, Pedro (NBCUniversal, Orlando)
+Email Sender:  Gonzalez, Pedro (Company_Name, Orlando)
 Email Subject:  Spam Email
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -692,10 +600,10 @@ INFO: Attachments found. Verifying now....
 http://www.urlvoid.com/scan/r1.dmtrk.net                                                   ==> 0/25      
 http://www.urlvoid.com/scan/i.emlfiles1.com                                                ==> 0/25      
 
-Response sent to Gonzalez, Pedro (NBCUniversal, Orlando)                                   ==> SPAM      
+Response sent to Gonzalez, Pedro (Company_Name, Orlando)                                   ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Tesch, Ben (NBCUniversal)
+Email Sender:  Tesch, Ben (Company_Name)
 Email Subject:  FW: Follow-Up- Buyers of Excess & Closeout Inventories
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -703,10 +611,10 @@ URLvoid scanned URL                                                             
 INFO: Attachments found. Verifying now....
 
 
-Response sent to spam.analysis@nbcuni.com                                                  ==> Analysis  
+Response sent to spam.analysis@Company-Name.com                                                  ==> Analysis  
 
 ************************************************************************************************************************
-Email Sender:  Gonzalez, Pedro (NBCUniversal, Orlando)
+Email Sender:  Gonzalez, Pedro (Company_Name, Orlando)
 Email Subject:  FW: Renold industry newsletter
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -715,10 +623,10 @@ INFO: Attachments found. Verifying now....
 
 http://www.urlvoid.com/scan/r1.dmtrk.net                                                   ==> 0/25      
 
-Response sent to Gonzalez, Pedro (NBCUniversal, Orlando)                                   ==> SPAM      
+Response sent to Gonzalez, Pedro (Company_Name, Orlando)                                   ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Chaput, Mark (NBCUniversal)
+Email Sender:  Chaput, Mark (Company_Name)
 Email Subject:  FW: HAVE A GREAT SUMMER!!
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -727,10 +635,10 @@ http://www.urlvoid.com/scan/us7.campaign-archive1.com                           
 http://www.urlvoid.com/scan/devilworks.us7.list-manage.com                                 ==> 0/25      
 http://www.urlvoid.com/scan/devilworks.us7.list-manage1.com                                ==> 0/25      
 
-Response sent to Chaput, Mark (NBCUniversal)                                               ==> SPAM      
+Response sent to Chaput, Mark (Company_Name)                                               ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Tesch, Ben (NBCUniversal)
+Email Sender:  Tesch, Ben (Company_Name)
 Email Subject:  FW: Pablo Escobar's brother to Stop Narcos - Netflix
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -739,10 +647,10 @@ INFO: Attachments found. Verifying now....
 
 http://www.urlvoid.com/scan/prnewswire.com                                                 ==> 0/25      
 
-Response sent to Tesch, Ben (NBCUniversal)                                                 ==> SPAM      
+Response sent to Tesch, Ben (Company_Name)                                                 ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Light, Christi (NBCUniversal)
+Email Sender:  Light, Christi (Company_Name)
 Email Subject:  Malicious?
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -750,10 +658,10 @@ URLvoid scanned URL                                                             
 INFO: Attachments found. Verifying now....
 
 
-Response sent to spam.analysis@nbcuni.com                                                  ==> Analysis  
+Response sent to spam.analysis@Company-Name.com                                                  ==> Analysis  
 
 ************************************************************************************************************************
-Email Sender:  Pubien, Michemonde (NBCUniversal)
+Email Sender:  Pubien, Michemonde (Company_Name)
 Email Subject:  FW: invoice
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -761,10 +669,10 @@ URLvoid scanned URL                                                             
 INFO: Attachments found. Verifying now....
 
 
-Response sent to spam.analysis@nbcuni.com                                                  ==> Analysis  
+Response sent to spam.analysis@Company-Name.com                                                  ==> Analysis  
 
 ************************************************************************************************************************
-Email Sender:  Victor, Julie (NBCUniversal)
+Email Sender:  Victor, Julie (Company_Name)
 Email Subject:  FW: Gobierno abierto, cmo cumplir?
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -775,7 +683,7 @@ http://www.urlvoid.com/scan/us11.campaign-archive2.com                          
 http://www.urlvoid.com/scan/factorfernando.us11.list-manage.com                            ==> 0/25      
 http://www.urlvoid.com/scan/factorfernando.us11.list-manage1.com                           ==> 0/25      
 
-Response sent to Victor, Julie (NBCUniversal)                                              ==> SPAM      
+Response sent to Victor, Julie (Company_Name)                                              ==> SPAM      
 
 ************************************************************************************************************************
 ***************************************** SPAM Response Automation 2016-07-06 ******************************************
@@ -787,7 +695,7 @@ Thank you!
 
 
 ************************************************************************************************************************
-Email Sender:  Zhan, Jane (NBCUniversal)
+Email Sender:  Zhan, Jane (Company_Name)
 Email Subject:  FW: Please check out Iphone
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -795,10 +703,10 @@ URLvoid scanned URL                                                             
 INFO: Attachments found. Verifying now....
 
 
-Response sent to spam.analysis@nbcuni.com                                                  ==> Analysis  
+Response sent to spam.analysis@Company-Name.com                                                  ==> Analysis  
 
 ************************************************************************************************************************
-Email Sender:  Tesch, Ben (NBCUniversal)
+Email Sender:  Tesch, Ben (Company_Name)
 Email Subject:  FW: Re-SMTP for email marketing-special offer now!
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -806,10 +714,10 @@ URLvoid scanned URL                                                             
 INFO: Attachments found. Verifying now....
 
 
-Response sent to Tesch, Ben (NBCUniversal)                                                 ==> SPAM      
+Response sent to Tesch, Ben (Company_Name)                                                 ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Kline, Tom (NBCUniversal)
+Email Sender:  Kline, Tom (Company_Name)
 Email Subject:  Spam
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -818,10 +726,10 @@ INFO: Attachments found. Verifying now....
 
 http://www.urlvoid.com/scan/t.yesware.com                                                  ==> 0/25      
 
-Response sent to Kline, Tom (NBCUniversal)                                                 ==> SPAM      
+Response sent to Kline, Tom (Company_Name)                                                 ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Ngoi, Sharon (NBCUniversal)
+Email Sender:  Ngoi, Sharon (Company_Name)
 Email Subject:  Spam email
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -830,10 +738,10 @@ INFO: Attachments found. Verifying now....
 
 http://www.urlvoid.com/scan/linkedin.com                                                   ==> 0/25      
 
-Response sent to Ngoi, Sharon (NBCUniversal)                                               ==> SPAM      
+Response sent to Ngoi, Sharon (Company_Name)                                               ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  VanAken, Andy (NBCUniversal)
+Email Sender:  VanAken, Andy (Company_Name)
 Email Subject:  
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -841,10 +749,10 @@ URLvoid scanned URL                                                             
 INFO: Attachments found. Verifying now....
 
 
-Response sent to VanAken, Andy (NBCUniversal)                                              ==> SPAM      
+Response sent to VanAken, Andy (Company_Name)                                              ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Weisman, Jay (NBCUniversal)
+Email Sender:  Weisman, Jay (Company_Name)
 Email Subject:  <no subject>
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -852,10 +760,10 @@ URLvoid scanned URL                                                             
 INFO: Attachments found. Verifying now....
 
 
-Response sent to Weisman, Jay (NBCUniversal)                                               ==> SPAM      
+Response sent to Weisman, Jay (Company_Name)                                               ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Olensky, Jackie (NBCUniversal)
+Email Sender:  Olensky, Jackie (Company_Name)
 Email Subject:  FW: Introducing... LMG Hamptons Client List For Summer 2016 [lcl]
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -864,10 +772,10 @@ INFO: Attachments found. Verifying now....
 
 http://www.urlvoid.com/scan/lawlormediagroup.com                                           ==> 0/25      
 
-Response sent to Olensky, Jackie (NBCUniversal)                                            ==> SPAM      
+Response sent to Olensky, Jackie (Company_Name)                                            ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Tesch, Ben (NBCUniversal)
+Email Sender:  Tesch, Ben (Company_Name)
 Email Subject:  FW: Christian Media Communique - The Counterfeit Antichrist
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -877,10 +785,10 @@ INFO: Attachments found. Verifying now....
 http://www.urlvoid.com/scan/christianmedianetwork.com                                      ==> 0/25      
 http://www.urlvoid.com/scan/groups.google.com                                              ==> 2/25      
 
-Response sent to spam.analysis@nbcuni.com                                                  ==> Analysis  
+Response sent to spam.analysis@Company-Name.com                                                  ==> Analysis  
 
 ************************************************************************************************************************
-Email Sender:  Tesch, Ben (NBCUniversal)
+Email Sender:  Tesch, Ben (Company_Name)
 Email Subject:  FW: Re-SMTP for email marketing-new package arrival
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -888,10 +796,10 @@ URLvoid scanned URL                                                             
 INFO: Attachments found. Verifying now....
 
 
-Response sent to Tesch, Ben (NBCUniversal)                                                 ==> SPAM      
+Response sent to Tesch, Ben (Company_Name)                                                 ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Tesch, Ben (NBCUniversal)
+Email Sender:  Tesch, Ben (Company_Name)
 Email Subject:  FW:      ?
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -900,10 +808,10 @@ INFO: Attachments found. Verifying now....
 
 http://www.urlvoid.com/scan/vk.cc                                                          ==> 2/25      
 
-Response sent to spam.analysis@nbcuni.com                                                  ==> Analysis  
+Response sent to spam.analysis@Company-Name.com                                                  ==> Analysis  
 
 ************************************************************************************************************************
-Email Sender:  Mitchell, James (NBCUniversal)
+Email Sender:  Mitchell, James (Company_Name)
 Email Subject:  
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -913,10 +821,10 @@ INFO: Attachments found. Verifying now....
 http://www.urlvoid.com/scan/fms-101-slc.oditech.com                                        ==> 0/25      
 http://www.urlvoid.com/scan/fms-101-slc.oditech.com                                        ==> 0/25      
 
-Response sent to Mitchell, James (NBCUniversal)                                            ==> SPAM      
+Response sent to Mitchell, James (Company_Name)                                            ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Miranda, Alex (NBCUniversal)
+Email Sender:  Miranda, Alex (Company_Name)
 Email Subject:  FW: 1099 Misc Explained
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -926,10 +834,10 @@ INFO: Attachments found. Verifying now....
 http://www.urlvoid.com/scan/gallery.linktrac45.com                                         ==> 0/25      
 http://www.urlvoid.com/scan/links.linktrac45.com                                           ==> 0/25      
 
-Response sent to Miranda, Alex (NBCUniversal)                                              ==> SPAM      
+Response sent to Miranda, Alex (Company_Name)                                              ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Rothman, Michael R (NBCUniversal)
+Email Sender:  Rothman, Michael R (Company_Name)
 Email Subject:  SPAM -- Webinar tomorrow: End-to-End Test Automation & Bridging the Manual Gaps
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -941,30 +849,30 @@ http://www.urlvoid.com/scan/ei.rlcdn.com                                        
 http://www.urlvoid.com/scan/er.prod.verticalresponse.com                                   ==> 0/25      
 http://www.urlvoid.com/scan/tag.crsspxl.com                                                ==> 0/25      
 
-Response sent to Rothman, Michael R (NBCUniversal)                                         ==> SPAM      
+Response sent to Rothman, Michael R (Company_Name)                                         ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Mendell, Donna (NBCUniversal)
+Email Sender:  Mendell, Donna (Company_Name)
 Email Subject:  RE: Request for Research
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
 
 ERROR <URLVoid>:                                                                           ==> 'NoneType' object has no attribute 'text'
 
-Response sent to Mendell, Donna (NBCUniversal)                                             ==> SPAM      
+Response sent to Mendell, Donna (Company_Name)                                             ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Mendell, Donna (NBCUniversal)
+Email Sender:  Mendell, Donna (Company_Name)
 Email Subject:  FW: Request for Research
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
 
 ERROR <URLVoid>:                                                                           ==> 'NoneType' object has no attribute 'text'
 
-Response sent to Mendell, Donna (NBCUniversal)                                             ==> SPAM      
+Response sent to Mendell, Donna (Company_Name)                                             ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Meyer, Jeffrey (NBCUniversal)
+Email Sender:  Meyer, Jeffrey (Company_Name)
 Email Subject:  I keep getting these emails...
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -975,10 +883,10 @@ http://www.urlvoid.com/scan/gifspgi.us11.list-manage.com                        
 http://www.urlvoid.com/scan/gifspgi.com                                                    ==> 0/25      
 http://www.urlvoid.com/scan/gifspgi.us11.list-manage1.com                                  ==> 0/25      
 
-Response sent to Meyer, Jeffrey (NBCUniversal)                                             ==> SPAM      
+Response sent to Meyer, Jeffrey (Company_Name)                                             ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Tesch, Ben (NBCUniversal)
+Email Sender:  Tesch, Ben (Company_Name)
 Email Subject:  FW: Follow-Up- Buyers of Excess & Closeout Inventories
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -986,7 +894,7 @@ URLvoid scanned URL                                                             
 INFO: Attachments found. Verifying now....
 
 
-Response sent to spam.analysis@nbcuni.com                                                  ==> Analysis  
+Response sent to spam.analysis@Company-Name.com                                                  ==> Analysis  
 
 ************************************************************************************************************************
 ***************************************** SPAM Response Automation 2016-07-06 ******************************************
@@ -998,7 +906,7 @@ Thank you!
 
 
 ************************************************************************************************************************
-Email Sender:  McDermott, Tricia (NBCUniversal)
+Email Sender:  McDermott, Tricia (Company_Name)
 Email Subject:  Fwd: [EPT] East Pearl - Beach Hotel 
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -1006,36 +914,36 @@ URLvoid scanned URL                                                             
 INFO: Attachments found. Verifying now....
 
 
-Response sent to McDermott, Tricia (NBCUniversal)                                          ==> SPAM      
+Response sent to McDermott, Tricia (Company_Name)                                          ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  McDermott, Tricia (NBCUniversal)
+Email Sender:  McDermott, Tricia (Company_Name)
 Email Subject:  Fwd: CONGRATULATIONS, YOU HAVE WON $590,000.00 SGD IN THE 2016 SINGAPORE AIRLINE PROMOTIONS
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
 
 
-Response sent to McDermott, Tricia (NBCUniversal)                                          ==> SPAM      
+Response sent to McDermott, Tricia (Company_Name)                                          ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  McDermott, Tricia (NBCUniversal)
+Email Sender:  McDermott, Tricia (Company_Name)
 Email Subject:  Fwd: (8) Incoming Messages On Hold
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
 
 http://www.urlvoid.com/scan/nighdesign.com                                                 ==> 7/25      
 
-Response sent to spam.analysis@nbcuni.com                                                  ==> Analysis  
+Response sent to spam.analysis@Company-Name.com                                                  ==> Analysis  
 
 ************************************************************************************************************************
-Email Sender:  McDermott, Tricia (NBCUniversal)
+Email Sender:  McDermott, Tricia (Company_Name)
 Email Subject:  Fwd: (8) Incoming Messages On Hold
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
 
 http://www.urlvoid.com/scan/nighdesign.com                                                 ==> 7/25      
 
-Response sent to spam.analysis@nbcuni.com                                                  ==> Analysis  
+Response sent to spam.analysis@Company-Name.com                                                  ==> Analysis  
 
 ************************************************************************************************************************
 ***************************************** SPAM Response Automation 2016-07-06 ******************************************
@@ -1047,7 +955,7 @@ Thank you!
 
 
 ************************************************************************************************************************
-Email Sender:  Bennett, Lorraine (NBCUniversal)
+Email Sender:  Bennett, Lorraine (Company_Name)
 Email Subject:  Spam
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -1057,7 +965,7 @@ INFO: Attachments found. Verifying now....
 ERROR <URLVoid>:                                                                           ==> 'NoneType' object has no attribute 'text'
 http://www.urlvoid.com/scan/newsletterbroadcast.net                                        ==> 0/25      
 
-Response sent to Bennett, Lorraine (NBCUniversal)                                          ==> SPAM      
+Response sent to Bennett, Lorraine (Company_Name)                                          ==> SPAM      
 
 ************************************************************************************************************************
 ***************************************** SPAM Response Automation 2016-07-06 ******************************************
@@ -1069,7 +977,7 @@ Thank you!
 
 
 ************************************************************************************************************************
-Email Sender:  Chiandusse, Elizabeth (NBCUniversal)
+Email Sender:  Chiandusse, Elizabeth (Company_Name)
 Email Subject:  FW: Elizabeth, question for you!
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -1079,10 +987,10 @@ INFO: Attachments found. Verifying now....
 http://www.urlvoid.com/scan/go.pardot.com                                                  ==> 0/25      
 http://www.urlvoid.com/scan/voices.com                                                     ==> 0/25      
 
-Response sent to Chiandusse, Elizabeth (NBCUniversal)                                      ==> SPAM      
+Response sent to Chiandusse, Elizabeth (Company_Name)                                      ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Leboeuf, William (NBCUniversal)
+Email Sender:  Leboeuf, William (Company_Name)
 Email Subject:  FW: BDA - Invoice No: 41351717 Acknowledgment
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -1090,10 +998,10 @@ URLvoid scanned URL                                                             
 INFO: Attachments found. Verifying now....
 
 
-Response sent to spam.analysis@nbcuni.com                                                  ==> Analysis  
+Response sent to spam.analysis@Company-Name.com                                                  ==> Analysis  
 
 ************************************************************************************************************************
-Email Sender:  Lazration, John (NBCUniversal)
+Email Sender:  Lazration, John (Company_Name)
 Email Subject:  Spam
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -1103,7 +1011,7 @@ INFO: Attachments found. Verifying now....
 http://www.urlvoid.com/scan/go.cfo.com                                                     ==> 0/25      
 http://www.urlvoid.com/scan/theinnovationenterprise.com                                    ==> 0/25      
 
-Response sent to Lazration, John (NBCUniversal)                                            ==> SPAM      
+Response sent to Lazration, John (Company_Name)                                            ==> SPAM      
 
 ************************************************************************************************************************
 ***************************************** SPAM Response Automation 2016-07-06 ******************************************
@@ -1115,7 +1023,7 @@ Thank you!
 
 
 ************************************************************************************************************************
-Email Sender:  Glendenning, Lisa (NBCUniversal)
+Email Sender:  Glendenning, Lisa (Company_Name)
 Email Subject:  Suspicious email
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -1124,10 +1032,10 @@ INFO: Attachments found. Verifying now....
 
 http://www.urlvoid.com/scan/custombodyworks.com.au                                         ==> 1/25      
 
-Response sent to Glendenning, Lisa (NBCUniversal)                                          ==> SPAM      
+Response sent to Glendenning, Lisa (Company_Name)                                          ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Miano, Mark (NBCUniversal)
+Email Sender:  Miano, Mark (Company_Name)
 Email Subject:  attached
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -1136,7 +1044,7 @@ INFO: Attachments found. Verifying now....
 
 http://www.urlvoid.com/scan/custombodyworks.com.au                                         ==> 1/25      
 
-Response sent to Miano, Mark (NBCUniversal)                                                ==> SPAM      
+Response sent to Miano, Mark (Company_Name)                                                ==> SPAM      
 
 ************************************************************************************************************************
 ***************************************** SPAM Response Automation 2016-07-06 ******************************************
@@ -1148,7 +1056,7 @@ Thank you!
 
 
 ************************************************************************************************************************
-Email Sender:  Tesch, Ben (NBCUniversal)
+Email Sender:  Tesch, Ben (Company_Name)
 Email Subject:  FW: About your webinars
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -1158,10 +1066,10 @@ INFO: Attachments found. Verifying now....
 http://www.urlvoid.com/scan/info.on24.com                                                  ==> 0/25      
 http://www.urlvoid.com/scan/zdhe1bks.emltrk.com                                            ==> 0/25      
 
-Response sent to Tesch, Ben (NBCUniversal)                                                 ==> SPAM      
+Response sent to Tesch, Ben (Company_Name)                                                 ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Smith, June a(NBCUniversal)
+Email Sender:  Smith, June a(Company_Name)
 Email Subject:  FW: 
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -1169,10 +1077,10 @@ URLvoid scanned URL                                                             
 INFO: Attachments found. Verifying now....
 
 
-Response sent to Smith, June a(NBCUniversal)                                               ==> SPAM      
+Response sent to Smith, June a(Company_Name)                                               ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Smith, June a(NBCUniversal)
+Email Sender:  Smith, June a(Company_Name)
 Email Subject:  FW: 
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -1180,10 +1088,10 @@ URLvoid scanned URL                                                             
 INFO: Attachments found. Verifying now....
 
 
-Response sent to Smith, June a(NBCUniversal)                                               ==> SPAM      
+Response sent to Smith, June a(Company_Name)                                               ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Lopez Crane, Lilia (NBCUniversal)
+Email Sender:  Lopez Crane, Lilia (Company_Name)
 Email Subject:  Possible Spam?
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -1193,7 +1101,7 @@ INFO: Attachments found. Verifying now....
 http://www.urlvoid.com/scan/iam.inbcu.com                                                  ==> 0/25      
 http://www.urlvoid.com/scan/sso.inbcu.com                                                  ==> 0/25      
 
-Response sent to Lopez Crane, Lilia (NBCUniversal)                                         ==> SPAM      
+Response sent to Lopez Crane, Lilia (Company_Name)                                         ==> SPAM      
 
 ************************************************************************************************************************
 ***************************************** SPAM Response Automation 2016-07-06 ******************************************
@@ -1205,7 +1113,7 @@ Thank you!
 
 
 ************************************************************************************************************************
-Email Sender:  McDermott, Tricia (NBCUniversal)
+Email Sender:  McDermott, Tricia (Company_Name)
 Email Subject:  FW: NANOE Nominee
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -1217,7 +1125,7 @@ http://www.urlvoid.com/scan/emediafundraising.us13.list-manage.com              
 http://www.urlvoid.com/scan/gallery.mailchimp.com                                          ==> 1/25      
 http://www.urlvoid.com/scan/emediafundraising.us13.list-manage1.com                        ==> 0/25      
 
-Response sent to McDermott, Tricia (NBCUniversal)                                          ==> SPAM      
+Response sent to McDermott, Tricia (Company_Name)                                          ==> SPAM      
 
 ************************************************************************************************************************
 ***************************************** SPAM Response Automation 2016-07-06 ******************************************
@@ -1240,7 +1148,7 @@ INFO: Attachments found. Verifying now....
 Response sent to Julia Morton                                                              ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Carney, Kevin (NBCUniversal)
+Email Sender:  Carney, Kevin (Company_Name)
 Email Subject:  Spam
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -1249,7 +1157,7 @@ INFO: Attachments found. Verifying now....
 
 http://www.urlvoid.com/scan/go.pardot.com                                                  ==> 0/25      
 
-Response sent to Carney, Kevin (NBCUniversal)                                              ==> SPAM      
+Response sent to Carney, Kevin (Company_Name)                                              ==> SPAM      
 
 ************************************************************************************************************************
 ***************************************** SPAM Response Automation 2016-07-06 ******************************************
@@ -1261,7 +1169,7 @@ Thank you!
 
 
 ************************************************************************************************************************
-Email Sender:  Kim, Tae (NBCUniversal, TLMD)
+Email Sender:  Kim, Tae (Company_Name, TLMD)
 Email Subject:  spam
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -1271,7 +1179,7 @@ INFO: Attachments found. Verifying now....
 http://www.urlvoid.com/scan/track.5wpr.com                                                 ==> 0/25      
 http://www.urlvoid.com/scan/img.jangomail.com                                              ==> 0/25      
 
-Response sent to Kim, Tae (NBCUniversal, TLMD)                                             ==> SPAM      
+Response sent to Kim, Tae (Company_Name, TLMD)                                             ==> SPAM      
 
 ************************************************************************************************************************
 Email Sender:  Julia Morton
@@ -1306,10 +1214,10 @@ URLvoid scanned URL                                                             
 INFO: Attachments found. Verifying now....
 
 
-Response sent to spam.analysis@nbcuni.com                                                  ==> Analysis  
+Response sent to spam.analysis@Company-Name.com                                                  ==> Analysis  
 
 ************************************************************************************************************************
-Email Sender:  Smith, June a(NBCUniversal)
+Email Sender:  Smith, June a(Company_Name)
 Email Subject:  FW: Do you work with George?
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -1319,10 +1227,10 @@ INFO: Attachments found. Verifying now....
 http://www.urlvoid.com/scan/effectivetrainingsolutions.com                                 ==> 0/25      
 ERROR <URLVoid>:                                                                           ==> 'NoneType' object has no attribute 'text'
 
-Response sent to Smith, June a(NBCUniversal)                                               ==> SPAM      
+Response sent to Smith, June a(Company_Name)                                               ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Kim, Tae (NBCUniversal, TLMD)
+Email Sender:  Kim, Tae (Company_Name, TLMD)
 Email Subject:  spam
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -1331,10 +1239,10 @@ INFO: Attachments found. Verifying now....
 
 http://www.urlvoid.com/scan/bit.ly                                                         ==> 2/25      
 
-Response sent to spam.analysis@nbcuni.com                                                  ==> Analysis  
+Response sent to spam.analysis@Company-Name.com                                                  ==> Analysis  
 
 ************************************************************************************************************************
-Email Sender:  Grosse, Julie (NBCUniversal)
+Email Sender:  Grosse, Julie (Company_Name)
 Email Subject:  FW: Gartner said it is cool
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -1343,7 +1251,7 @@ INFO: Attachments found. Verifying now....
 
 http://www.urlvoid.com/scan/go.bluescape.com                                               ==> 0/25      
 
-Response sent to Grosse, Julie (NBCUniversal)                                              ==> SPAM      
+Response sent to Grosse, Julie (Company_Name)                                              ==> SPAM      
 
 ************************************************************************************************************************
 ***************************************** SPAM Response Automation 2016-07-07 ******************************************
@@ -1355,7 +1263,7 @@ Thank you!
 
 
 ************************************************************************************************************************
-Email Sender:  Affiliate Operations (NBCUniversal)
+Email Sender:  Affiliate Operations (Company_Name)
 Email Subject:  FW: 0726~3
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -1363,19 +1271,19 @@ URLvoid scanned URL                                                             
 INFO: Attachments found. Verifying now....
 
 
-Response sent to spam.analysis@nbcuni.com                                                  ==> Analysis  
+Response sent to spam.analysis@Company-Name.com                                                  ==> Analysis  
 
 ************************************************************************************************************************
-Email Sender:  Patrickus, Nancy (NBCUniversal, WMAQ)
+Email Sender:  Patrickus, Nancy (Company_Name, WMAQ)
 Email Subject:  Fwd: I am known as B.Edmund, with due respect, I am contacting you regarding the sum of ($9.6M) deposited in a bank here by your dead cousin who bear the same surname with you. Reply me for more information.Thanks.
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
 
 
-Response sent to Patrickus, Nancy (NBCUniversal, WMAQ)                                     ==> SPAM      
+Response sent to Patrickus, Nancy (Company_Name, WMAQ)                                     ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Holian, Kevin (NBCUniversal)
+Email Sender:  Holian, Kevin (Company_Name)
 Email Subject:  FW: 160700826   Order Acknowledgement, NBC UNIVERSAL INTERNATIONAL LTD, COLT LANLink Metro
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -1383,10 +1291,10 @@ URLvoid scanned URL                                                             
 INFO: Attachments found. Verifying now....
 
 
-Response sent to spam.analysis@nbcuni.com                                                  ==> Analysis  
+Response sent to spam.analysis@Company-Name.com                                                  ==> Analysis  
 
 ************************************************************************************************************************
-Email Sender:  Gnaulati, Ines (NBCUniversal)
+Email Sender:  Gnaulati, Ines (Company_Name)
 Email Subject:  FW: Referral to the CIO at CNBC Requested
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -1396,7 +1304,7 @@ INFO: Attachments found. Verifying now....
 ERROR <URLVoid>:                                                                           ==> 'NoneType' object has no attribute 'text'
 ERROR <URLVoid>:                                                                           ==> 'NoneType' object has no attribute 'text'
 
-Response sent to Gnaulati, Ines (NBCUniversal)                                             ==> SPAM      
+Response sent to Gnaulati, Ines (Company_Name)                                             ==> SPAM      
 
 ************************************************************************************************************************
 ***************************************** SPAM Response Automation 2016-07-07 ******************************************
@@ -1408,7 +1316,7 @@ Thank you!
 
 
 ************************************************************************************************************************
-Email Sender:  Warren, Tyrell(NBCUniversal)
+Email Sender:  Warren, Tyrell(Company_Name)
 Email Subject:  FW: Meeting In a Couple Weeks? 
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -1418,10 +1326,10 @@ INFO: Attachments found. Verifying now....
 http://www.urlvoid.com/scan/paymetric.com                                                  ==> 0/25      
 ERROR <URLVoid>:                                                                           ==> 'NoneType' object has no attribute 'text'
 
-Response sent to Warren, Tyrell(NBCUniversal)                                              ==> SPAM      
+Response sent to Warren, Tyrell(Company_Name)                                              ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  McMurtray, Misha (NBCUniversal)
+Email Sender:  McMurtray, Misha (Company_Name)
 Email Subject:  FW: Meeting In a Couple Weeks? 
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -1429,10 +1337,10 @@ URLvoid scanned URL                                                             
 http://www.urlvoid.com/scan/paymetric.com                                                  ==> 0/25      
 ERROR <URLVoid>:                                                                           ==> 'NoneType' object has no attribute 'text'
 
-Response sent to McMurtray, Misha (NBCUniversal)                                           ==> SPAM      
+Response sent to McMurtray, Misha (Company_Name)                                           ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Laskie, Elizabeth (NBCUniversal)
+Email Sender:  Laskie, Elizabeth (Company_Name)
 Email Subject:  Another Spam/fishing
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -1441,7 +1349,7 @@ INFO: Attachments found. Verifying now....
 
 http://www.urlvoid.com/scan/it-doctor-spb.ru                                               ==> 0/25      
 
-Response sent to Laskie, Elizabeth (NBCUniversal)                                          ==> SPAM      
+Response sent to Laskie, Elizabeth (Company_Name)                                          ==> SPAM      
 
 ************************************************************************************************************************
 ***************************************** SPAM Response Automation 2016-07-07 ******************************************
@@ -1453,7 +1361,7 @@ Thank you!
 
 
 ************************************************************************************************************************
-Email Sender:  Patel, Nikesh (NBCUniversal)
+Email Sender:  Patel, Nikesh (Company_Name)
 Email Subject:  FW: FREE Amazon-VMware DRaaS Assessment
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -1466,10 +1374,10 @@ http://www.urlvoid.com/scan/ei.rlcdn.com                                        
 http://www.urlvoid.com/scan/er.prod.verticalresponse.com                                   ==> 0/25      
 http://www.urlvoid.com/scan/tag.crsspxl.com                                                ==> 0/25      
 
-Response sent to Patel, Nikesh (NBCUniversal)                                              ==> SPAM      
+Response sent to Patel, Nikesh (Company_Name)                                              ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Michel, Elizabeth (NBCUniversal)
+Email Sender:  Michel, Elizabeth (Company_Name)
 Email Subject:  Virus?
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -1477,10 +1385,10 @@ URLvoid scanned URL                                                             
 INFO: Attachments found. Verifying now....
 
 
-Response sent to Michel, Elizabeth (NBCUniversal)                                          ==> SPAM      
+Response sent to Michel, Elizabeth (Company_Name)                                          ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Bausch, Alyssa (NBCUniversal)
+Email Sender:  Bausch, Alyssa (Company_Name)
 Email Subject:  FW: July 7, 2016 | Executive Webinar: Conflict Resolution Primer 1 : Recognizing Conflict
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -1488,7 +1396,7 @@ URLvoid scanned URL                                                             
 http://www.urlvoid.com/scan/mkt.netcomlearning.com                                         ==> 0/25      
 http://www.urlvoid.com/scan/go.netcomlearning.com                                          ==> 0/25      
 
-Response sent to Bausch, Alyssa (NBCUniversal)                                             ==> SPAM      
+Response sent to Bausch, Alyssa (Company_Name)                                             ==> SPAM      
 
 ************************************************************************************************************************
 Email Sender:  Clarke, Bill (SNY)
@@ -1513,7 +1421,7 @@ Thank you!
 
 
 ************************************************************************************************************************
-Email Sender:  Sanchez, Gustavo (NBCUniversal, Orlando)
+Email Sender:  Sanchez, Gustavo (Company_Name, Orlando)
 Email Subject:  FW: Our Exclusive Research Featured in Forbes
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -1521,10 +1429,10 @@ URLvoid scanned URL                                                             
 http://www.urlvoid.com/scan/hi.helloworld.com                                              ==> 0/25      
 http://www.urlvoid.com/scan/o6ku5cw9.emltrk.com                                            ==> 0/25      
 
-Response sent to Sanchez, Gustavo (NBCUniversal, Orlando)                                  ==> SPAM      
+Response sent to Sanchez, Gustavo (Company_Name, Orlando)                                  ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Chaput, Mark (NBCUniversal)
+Email Sender:  Chaput, Mark (Company_Name)
 Email Subject:  Spam email
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -1534,10 +1442,10 @@ INFO: Attachments found. Verifying now....
 http://www.urlvoid.com/scan/go.cfo.com                                                     ==> 0/25      
 http://www.urlvoid.com/scan/go.cfo.com                                                     ==> 0/25      
 
-Response sent to Chaput, Mark (NBCUniversal)                                               ==> SPAM      
+Response sent to Chaput, Mark (Company_Name)                                               ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Aspacio-Catindig, Rosanna (NBCUniversal)
+Email Sender:  Aspacio-Catindig, Rosanna (Company_Name)
 Email Subject:  Phishing Email
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -1547,19 +1455,19 @@ INFO: Attachments found. Verifying now....
 http://www.urlvoid.com/scan/password-update.com                                            ==> 1/25      
 http://www.urlvoid.com/scan/updates.account-maintenance.com                                ==> 0/25      
 
-Response sent to Aspacio-Catindig, Rosanna (NBCUniversal)                                  ==> SPAM      
+Response sent to Aspacio-Catindig, Rosanna (Company_Name)                                  ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Scott, Susie (NBCUniversal)
+Email Sender:  Scott, Susie (Company_Name)
 Email Subject:  FW: Verification-0707GTdsdsaqwq
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
 
 
-Response sent to Scott, Susie (NBCUniversal)                                               ==> SPAM      
+Response sent to Scott, Susie (Company_Name)                                               ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Kim, Tae (NBCUniversal, TLMD)
+Email Sender:  Kim, Tae (Company_Name, TLMD)
 Email Subject:  spam
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -1568,7 +1476,7 @@ INFO: Attachments found. Verifying now....
 
 http://www.urlvoid.com/scan/bit.ly                                                         ==> 2/25      
 
-Response sent to spam.analysis@nbcuni.com                                                  ==> Analysis  
+Response sent to spam.analysis@Company-Name.com                                                  ==> Analysis  
 
 ************************************************************************************************************************
 Email Sender:  Julia Morton
@@ -1581,7 +1489,7 @@ INFO: Attachments found. Verifying now....
 ERROR <URLVoid>:                                                                           ==> 'NoneType' object has no attribute 'text'
 http://www.urlvoid.com/scan/appsmarketing.biz                                              ==> 2/25      
 
-Response sent to spam.analysis@nbcuni.com                                                  ==> Analysis  
+Response sent to spam.analysis@Company-Name.com                                                  ==> Analysis  
 
 ************************************************************************************************************************
 Email Sender:  Julia Morton
@@ -1608,7 +1516,7 @@ http://www.urlvoid.com/scan/reservationcenter.updatemyprofile.com               
 Response sent to Julia Morton                                                              ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Kim, Tae (NBCUniversal, TLMD)
+Email Sender:  Kim, Tae (Company_Name, TLMD)
 Email Subject:  spam
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -1616,10 +1524,10 @@ URLvoid scanned URL                                                             
 INFO: Attachments found. Verifying now....
 
 
-Response sent to Kim, Tae (NBCUniversal, TLMD)                                             ==> SPAM      
+Response sent to Kim, Tae (Company_Name, TLMD)                                             ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Tesch, Ben (NBCUniversal)
+Email Sender:  Tesch, Ben (Company_Name)
 Email Subject:  FW: TOYOTA REWARD
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -1627,10 +1535,10 @@ URLvoid scanned URL                                                             
 INFO: Attachments found. Verifying now....
 
 
-Response sent to Tesch, Ben (NBCUniversal)                                                 ==> SPAM      
+Response sent to Tesch, Ben (Company_Name)                                                 ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Greenberg, Richard (NBCUniversal)
+Email Sender:  Greenberg, Richard (Company_Name)
 Email Subject:  spam?
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -1638,10 +1546,10 @@ URLvoid scanned URL                                                             
 INFO: Attachments found. Verifying now....
 
 
-Response sent to spam.analysis@nbcuni.com                                                  ==> Analysis  
+Response sent to spam.analysis@Company-Name.com                                                  ==> Analysis  
 
 ************************************************************************************************************************
-Email Sender:  Bennett, Lorraine (NBCUniversal)
+Email Sender:  Bennett, Lorraine (Company_Name)
 Email Subject:  spam
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -1653,19 +1561,19 @@ http://www.urlvoid.com/scan/images.globalknowledge.com                          
 http://www.urlvoid.com/scan/imglibv3.successbyemail.com                                    ==> 0/25      
 http://www.urlvoid.com/scan/click.globalknowledgeenews.com                                 ==> 0/25      
 
-Response sent to Bennett, Lorraine (NBCUniversal)                                          ==> SPAM      
+Response sent to Bennett, Lorraine (Company_Name)                                          ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Rios, David (NBCUniversal)
+Email Sender:  Rios, David (Company_Name)
 Email Subject:  FW: Any C2C requirement? Thanks 
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
 
 
-Response sent to Rios, David (NBCUniversal)                                                ==> SPAM      
+Response sent to Rios, David (Company_Name)                                                ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Tesch, Ben (NBCUniversal)
+Email Sender:  Tesch, Ben (Company_Name)
 Email Subject:  FW: Hi Breaking News from Opposing Views!
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -1676,20 +1584,20 @@ http://www.urlvoid.com/scan/facebook.com                                        
 http://www.urlvoid.com/scan/rndr.com                                                       ==> 0/25      
 http://www.urlvoid.com/scan/docs.google.com                                                ==> 2/25      
 
-Response sent to spam.analysis@nbcuni.com                                                  ==> Analysis  
+Response sent to spam.analysis@Company-Name.com                                                  ==> Analysis  
 
 ************************************************************************************************************************
-Email Sender:  Rios, David (NBCUniversal)
+Email Sender:  Rios, David (Company_Name)
 Email Subject:  FW: Account Status Changed.
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
 
 http://www.urlvoid.com/scan/varietysoccer.com                                              ==> 0/25      
 
-Response sent to Rios, David (NBCUniversal)                                                ==> SPAM      
+Response sent to Rios, David (Company_Name)                                                ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Cycon, Timothy (NBCUniversal)
+Email Sender:  Cycon, Timothy (Company_Name)
 Email Subject:  
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -1698,10 +1606,10 @@ INFO: Attachments found. Verifying now....
 
 http://www.urlvoid.com/scan/go.cfo.com                                                     ==> 0/25      
 
-Response sent to Cycon, Timothy (NBCUniversal)                                             ==> SPAM      
+Response sent to Cycon, Timothy (Company_Name)                                             ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Flaherty, Eileen (NBCUniversal)
+Email Sender:  Flaherty, Eileen (Company_Name)
 Email Subject:  SPAM
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -1711,10 +1619,10 @@ INFO: Attachments found. Verifying now....
 http://www.urlvoid.com/scan/password-update.com                                            ==> 1/25      
 http://www.urlvoid.com/scan/updates.account-maintenance.com                                ==> 0/25      
 
-Response sent to Flaherty, Eileen (NBCUniversal)                                           ==> SPAM      
+Response sent to Flaherty, Eileen (Company_Name)                                           ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Kim, Tae (NBCUniversal, TLMD)
+Email Sender:  Kim, Tae (Company_Name, TLMD)
 Email Subject:  spam
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -1723,7 +1631,7 @@ INFO: Attachments found. Verifying now....
 
 http://www.urlvoid.com/scan/bit.ly                                                         ==> 2/25      
 
-Response sent to spam.analysis@nbcuni.com                                                  ==> Analysis  
+Response sent to spam.analysis@Company-Name.com                                                  ==> Analysis  
 
 ************************************************************************************************************************
 ***************************************** SPAM Response Automation 2016-07-08 ******************************************
@@ -1735,7 +1643,7 @@ Thank you!
 
 
 ************************************************************************************************************************
-Email Sender:  Weinberg, Adam (NBCUniversal)
+Email Sender:  Weinberg, Adam (Company_Name)
 Email Subject:  FW: Your parcel has arrived
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -1743,10 +1651,10 @@ URLvoid scanned URL                                                             
 INFO: Attachments found. Verifying now....
 
 
-Response sent to spam.analysis@nbcuni.com                                                  ==> Analysis  
+Response sent to spam.analysis@Company-Name.com                                                  ==> Analysis  
 
 ************************************************************************************************************************
-Email Sender:  Salmon, Michael (NBCUniversal)
+Email Sender:  Salmon, Michael (Company_Name)
 Email Subject:  Malware
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -1755,10 +1663,10 @@ INFO: Attachments found. Verifying now....
 
 http://www.urlvoid.com/scan/docs.google.com                                                ==> 2/25      
 
-Response sent to spam.analysis@nbcuni.com                                                  ==> Analysis  
+Response sent to spam.analysis@Company-Name.com                                                  ==> Analysis  
 
 ************************************************************************************************************************
-Email Sender:  Affiliate Operations (NBCUniversal)
+Email Sender:  Affiliate Operations (Company_Name)
 Email Subject:  FW: Thrilling new novel, The Unnamed Black Book.
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -1768,10 +1676,10 @@ INFO: Attachments found. Verifying now....
 http://www.urlvoid.com/scan/igg.me                                                         ==> 1/25      
 http://www.urlvoid.com/scan/youtu.be                                                       ==> 0/25      
 
-Response sent to Affiliate Operations (NBCUniversal)                                       ==> SPAM      
+Response sent to Affiliate Operations (Company_Name)                                       ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Affiliate Operations (NBCUniversal)
+Email Sender:  Affiliate Operations (Company_Name)
 Email Subject:  FW: Maybe become a chance for us
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -1780,7 +1688,7 @@ INFO: Attachments found. Verifying now....
 
 ERROR <URLVoid>:                                                                           ==> 'NoneType' object has no attribute 'text'
 
-Response sent to Affiliate Operations (NBCUniversal)                                       ==> SPAM      
+Response sent to Affiliate Operations (Company_Name)                                       ==> SPAM      
 
 ************************************************************************************************************************
 Email Sender:  Julia Morton
@@ -1795,7 +1703,7 @@ ERROR <URLVoid>:                                                                
 Response sent to Julia Morton                                                              ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Tesch, Ben (NBCUniversal)
+Email Sender:  Tesch, Ben (Company_Name)
 Email Subject:  FW: Re-SMTP for email marketing-special offer now!
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -1803,7 +1711,7 @@ URLvoid scanned URL                                                             
 INFO: Attachments found. Verifying now....
 
 
-Response sent to Tesch, Ben (NBCUniversal)                                                 ==> SPAM      
+Response sent to Tesch, Ben (Company_Name)                                                 ==> SPAM      
 
 ************************************************************************************************************************
 ***************************************** SPAM Response Automation 2016-07-08 ******************************************
@@ -1815,7 +1723,7 @@ Thank you!
 
 
 ************************************************************************************************************************
-Email Sender:  Rosenbloom, Cheryl (NBCUniversal)
+Email Sender:  Rosenbloom, Cheryl (Company_Name)
 Email Subject:  Fwd: 102
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -1826,10 +1734,10 @@ http://www.urlvoid.com/scan/unitehair.com                                       
 http://www.urlvoid.com/scan/go247men.com                                                   ==> 0/25      
 http://www.urlvoid.com/scan/instagram.com                                                  ==> 2/25      
 
-Response sent to spam.analysis@nbcuni.com                                                  ==> Analysis  
+Response sent to spam.analysis@Company-Name.com                                                  ==> Analysis  
 
 ************************************************************************************************************************
-Email Sender:  Kim, Tae (NBCUniversal, TLMD)
+Email Sender:  Kim, Tae (Company_Name, TLMD)
 Email Subject:  spam
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -1838,10 +1746,10 @@ INFO: Attachments found. Verifying now....
 
 http://www.urlvoid.com/scan/bit.ly                                                         ==> 2/25      
 
-Response sent to spam.analysis@nbcuni.com                                                  ==> Analysis  
+Response sent to spam.analysis@Company-Name.com                                                  ==> Analysis  
 
 ************************************************************************************************************************
-Email Sender:  Kim, Tae (NBCUniversal, TLMD)
+Email Sender:  Kim, Tae (Company_Name, TLMD)
 Email Subject:  spam
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -1850,7 +1758,7 @@ INFO: Attachments found. Verifying now....
 
 http://www.urlvoid.com/scan/bit.ly                                                         ==> 2/25      
 
-Response sent to spam.analysis@nbcuni.com                                                  ==> Analysis  
+Response sent to spam.analysis@Company-Name.com                                                  ==> Analysis  
 
 ************************************************************************************************************************
 Email Sender:  Julia Morton
@@ -1876,7 +1784,7 @@ INFO: Attachments found. Verifying now....
 Response sent to Julia Morton                                                              ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Carbone, Matt (NBCUniversal)
+Email Sender:  Carbone, Matt (Company_Name)
 Email Subject:  FW: How to Lead and Empower Your Customer Service Team
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -1887,10 +1795,10 @@ http://www.urlvoid.com/scan/r2.vidiemi.com                                      
 http://www.urlvoid.com/scan/snap.vidiemi.com                                               ==> 0/25      
 http://www.urlvoid.com/scan/pryor.com                                                      ==> 0/25      
 
-Response sent to Carbone, Matt (NBCUniversal)                                              ==> SPAM      
+Response sent to Carbone, Matt (Company_Name)                                              ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Abrahamsen, Robert (NBCUniversal)
+Email Sender:  Abrahamsen, Robert (Company_Name)
 Email Subject:  Fwd: Steps to a Successful SharePoint Governance Plan
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -1898,7 +1806,7 @@ URLvoid scanned URL                                                             
 http://www.urlvoid.com/scan/news.onlinecompliancepanel.com                                 ==> 1/25      
 http://www.urlvoid.com/scan/onlinecompliancepanel.com                                      ==> 0/25      
 
-Response sent to Abrahamsen, Robert (NBCUniversal)                                         ==> SPAM      
+Response sent to Abrahamsen, Robert (Company_Name)                                         ==> SPAM      
 
 ************************************************************************************************************************
 ***************************************** SPAM Response Automation 2016-07-11 ******************************************
@@ -1910,7 +1818,7 @@ Thank you!
 
 
 ************************************************************************************************************************
-Email Sender:  Abrahamsen, Robert (NBCUniversal)
+Email Sender:  Abrahamsen, Robert (Company_Name)
 Email Subject:  Fwd: ISO 21500 Project Management Guidelines for Risk Assessment
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -1918,10 +1826,10 @@ URLvoid scanned URL                                                             
 http://www.urlvoid.com/scan/news.onlinecompliancepanel.com                                 ==> 1/25      
 http://www.urlvoid.com/scan/onlinecompliancepanel.com                                      ==> 0/25      
 
-Response sent to Abrahamsen, Robert (NBCUniversal)                                         ==> SPAM      
+Response sent to Abrahamsen, Robert (Company_Name)                                         ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Marfise, Bob (NBCUniversal, WMAQ)
+Email Sender:  Marfise, Bob (Company_Name, WMAQ)
 Email Subject:  Report Spam
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -1930,10 +1838,10 @@ INFO: Attachments found. Verifying now....
 
 http://www.urlvoid.com/scan/wp.telemetricsinc.com                                          ==> 0/25      
 
-Response sent to Marfise, Bob (NBCUniversal, WMAQ)                                         ==> SPAM      
+Response sent to Marfise, Bob (Company_Name, WMAQ)                                         ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Carbone, Matt (NBCUniversal)
+Email Sender:  Carbone, Matt (Company_Name)
 Email Subject:  FW: How to Manage Multiple Priorities
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -1944,10 +1852,10 @@ http://www.urlvoid.com/scan/r2.vidiemi.com                                      
 http://www.urlvoid.com/scan/pryor.com                                                      ==> 0/25      
 http://www.urlvoid.com/scan/snap.vidiemi.com                                               ==> 0/25      
 
-Response sent to Carbone, Matt (NBCUniversal)                                              ==> SPAM      
+Response sent to Carbone, Matt (Company_Name)                                              ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Marfise, Bob (NBCUniversal, WMAQ)
+Email Sender:  Marfise, Bob (Company_Name, WMAQ)
 Email Subject:  Report Spam
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -1956,10 +1864,10 @@ INFO: Attachments found. Verifying now....
 
 http://www.urlvoid.com/scan/wp.telemetricsinc.com                                          ==> 0/25      
 
-Response sent to Marfise, Bob (NBCUniversal, WMAQ)                                         ==> SPAM      
+Response sent to Marfise, Bob (Company_Name, WMAQ)                                         ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Money, Daniel (NBCUniversal)
+Email Sender:  Money, Daniel (Company_Name)
 Email Subject:  FW: Prestige Economics: Weekly Market Outlook Report - 10 July 2016
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -1967,10 +1875,10 @@ URLvoid scanned URL                                                             
 INFO: Attachments found. Verifying now....
 
 
-Response sent to spam.analysis@nbcuni.com                                                  ==> Analysis  
+Response sent to spam.analysis@Company-Name.com                                                  ==> Analysis  
 
 ************************************************************************************************************************
-Email Sender:  Abrahamsen, Robert (NBCUniversal)
+Email Sender:  Abrahamsen, Robert (Company_Name)
 Email Subject:  Fwd: How to Apply the Concept of Analysis of Variance
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -1978,20 +1886,20 @@ URLvoid scanned URL                                                             
 ERROR <URLVoid>:                                                                           ==> [Errno 10054] An existing connection was forcibly closed by the remote host
 http://www.urlvoid.com/scan/onlinecompliancepanel.com                                      ==> 0/25      
 
-Response sent to Abrahamsen, Robert (NBCUniversal)                                         ==> SPAM      
+Response sent to Abrahamsen, Robert (Company_Name)                                         ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Abrahamsen, Robert (NBCUniversal)
+Email Sender:  Abrahamsen, Robert (Company_Name)
 Email Subject:  Fwd: Steps to a Successful SharePoint Governance Plan
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
 
 http://www.urlvoid.com/scan/news.onlinecompliancepanel.com                                 ==> 1/25      
 
-Response sent to Abrahamsen, Robert (NBCUniversal)                                         ==> SPAM      
+Response sent to Abrahamsen, Robert (Company_Name)                                         ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Kohler, Rolien (NBCUniversal)
+Email Sender:  Kohler, Rolien (Company_Name)
 Email Subject:  
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -2001,7 +1909,7 @@ INFO: Attachments found. Verifying now....
 http://www.urlvoid.com/scan/gallery.mailchimp.com                                          ==> 1/25      
 http://www.urlvoid.com/scan/dentaldynamiximaging.us8.list-manage.com                       ==> 0/25      
 
-Response sent to Kohler, Rolien (NBCUniversal)                                             ==> SPAM      
+Response sent to Kohler, Rolien (Company_Name)                                             ==> SPAM      
 
 ************************************************************************************************************************
 ***************************************** SPAM Response Automation 2016-07-11 ******************************************
@@ -2013,17 +1921,17 @@ Thank you!
 
 
 ************************************************************************************************************************
-Email Sender:  Payne, Brittany (NBCUniversal)
+Email Sender:  Payne, Brittany (Company_Name)
 Email Subject:  FW: Agreement
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
 
 http://www.urlvoid.com/scan/tinyurl.com                                                    ==> 2/25      
 
-Response sent to spam.analysis@nbcuni.com                                                  ==> Analysis  
+Response sent to spam.analysis@Company-Name.com                                                  ==> Analysis  
 
 ************************************************************************************************************************
-Email Sender:  Cusumano, Anthony (NBCUniversal)
+Email Sender:  Cusumano, Anthony (Company_Name)
 Email Subject:  FW: Hello........
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -2031,11 +1939,11 @@ URLvoid scanned URL                                                             
 INFO: Attachments found. Verifying now....
 
 
-Response sent to Cusumano, Anthony (NBCUniversal)                                          ==> SPAM      
+Response sent to Cusumano, Anthony (Company_Name)                                          ==> SPAM      
 
 ************************************************************************************************************************
 Email Sender:  Costello, Tom  (NBC NEWS)
-Email Subject:  FW: www.nbcuni.com
+Email Subject:  FW: www.Company-Name.com
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
 
@@ -2045,7 +1953,7 @@ INFO: Attachments found. Verifying now....
 Response sent to Costello, Tom  (NBC NEWS)                                                 ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Thomas, Yezmin (NBCUniversal)
+Email Sender:  Thomas, Yezmin (Company_Name)
 Email Subject:  FW: 1st on Google
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -2053,16 +1961,16 @@ URLvoid scanned URL                                                             
 INFO: Attachments found. Verifying now....
 
 
-Response sent to Thomas, Yezmin (NBCUniversal)                                             ==> SPAM      
+Response sent to Thomas, Yezmin (Company_Name)                                             ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Cusumano, Anthony (NBCUniversal)
+Email Sender:  Cusumano, Anthony (Company_Name)
 Email Subject:  FW: Hello........
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
 
 
-Response sent to Cusumano, Anthony (NBCUniversal)                                          ==> SPAM      
+Response sent to Cusumano, Anthony (Company_Name)                                          ==> SPAM      
 
 ************************************************************************************************************************
 Email Sender:  Julia Morton
@@ -2099,7 +2007,7 @@ INFO: Attachments found. Verifying now....
 Response sent to Julia Morton                                                              ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Victor, Julie (NBCUniversal)
+Email Sender:  Victor, Julie (Company_Name)
 Email Subject:  FW: Gobierno abierto, ests cumpliendo?
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -2110,7 +2018,7 @@ http://www.urlvoid.com/scan/us11.campaign-archive1.com                          
 ERROR <URLVoid>:                                                                           ==> [Errno 10054] An existing connection was forcibly closed by the remote host
 ERROR <URLVoid>:                                                                           ==> [Errno 10054] An existing connection was forcibly closed by the remote host
 
-Response sent to Victor, Julie (NBCUniversal)                                              ==> SPAM      
+Response sent to Victor, Julie (Company_Name)                                              ==> SPAM      
 
 ************************************************************************************************************************
 Email Sender:  Fellowes, Christine (NBC Universal)
@@ -2134,7 +2042,7 @@ Thank you!
 
 
 ************************************************************************************************************************
-Email Sender:  Tesch, Ben (NBCUniversal)
+Email Sender:  Tesch, Ben (Company_Name)
 Email Subject:  FW: Samsung Webinar- A One Stop Shop for Mobility Solutions
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -2144,10 +2052,10 @@ INFO: Attachments found. Verifying now....
 ERROR <URLVoid>:                                                                           ==> [Errno 10054] An existing connection was forcibly closed by the remote host
 http://www.urlvoid.com/scan/image1.cc-inc.com                                              ==> 0/25      
 
-Response sent to Tesch, Ben (NBCUniversal)                                                 ==> SPAM      
+Response sent to Tesch, Ben (Company_Name)                                                 ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Hall, Ian (NBCUniversal)
+Email Sender:  Hall, Ian (Company_Name)
 Email Subject:  Spam message attached
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -2155,7 +2063,7 @@ URLvoid scanned URL                                                             
 INFO: Attachments found. Verifying now....
 
 
-Response sent to spam.analysis@nbcuni.com                                                  ==> Analysis  
+Response sent to spam.analysis@Company-Name.com                                                  ==> Analysis  
 
 ************************************************************************************************************************
 Email Sender:  Julia Morton
@@ -2180,7 +2088,7 @@ Thank you!
 
 
 ************************************************************************************************************************
-Email Sender:  Bunker, Daniel (NBCUniversal)
+Email Sender:  Bunker, Daniel (Company_Name)
 Email Subject:  FW: FYI- Training
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -2189,10 +2097,10 @@ INFO: Attachments found. Verifying now....
 
 http://www.urlvoid.com/scan/cio.ca.gov                                                     ==> 0/25      
 
-Response sent to Bunker, Daniel (NBCUniversal)                                             ==> SPAM      
+Response sent to Bunker, Daniel (Company_Name)                                             ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Glassman, Matt (NBCUniversal, WRC)
+Email Sender:  Glassman, Matt (Company_Name, WRC)
 Email Subject:  FW: 44/57 12 CFR 1080/ 32 CFR 11.4 -< F>. Stalking: Watching a Crime Evolve < Tony Curtis Barrino -1080 operation freedom interior infrastructure protect the Potomac ultimate Illinois Encroachment Obama ultimate # 28 "buzzards that scavengers spoliati...
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -2200,10 +2108,10 @@ URLvoid scanned URL                                                             
 INFO: Attachments found. Verifying now....
 
 
-Response sent to spam.analysis@nbcuni.com                                                  ==> Analysis  
+Response sent to spam.analysis@Company-Name.com                                                  ==> Analysis  
 
 ************************************************************************************************************************
-Email Sender:  Kim, Tae (NBCUniversal, TLMD)
+Email Sender:  Kim, Tae (Company_Name, TLMD)
 Email Subject:  spam
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -2212,7 +2120,7 @@ INFO: Attachments found. Verifying now....
 
 http://www.urlvoid.com/scan/bit.ly                                                         ==> 2/25      
 
-Response sent to spam.analysis@nbcuni.com                                                  ==> Analysis  
+Response sent to spam.analysis@Company-Name.com                                                  ==> Analysis  
 
 ************************************************************************************************************************
 Email Sender:  Spiegel, Jackie (SNY)
@@ -2223,10 +2131,10 @@ URLvoid scanned URL                                                             
 INFO: Attachments found. Verifying now....
 
 
-Response sent to spam.analysis@nbcuni.com                                                  ==> Analysis  
+Response sent to spam.analysis@Company-Name.com                                                  ==> Analysis  
 
 ************************************************************************************************************************
-Email Sender:  Mendez, Danny (NBCUniversal)
+Email Sender:  Mendez, Danny (Company_Name)
 Email Subject:  FW: AviSight Drone Academy July 26-29 Las Vegas
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -2238,7 +2146,7 @@ http://www.urlvoid.com/scan/youtube.com                                         
 http://www.urlvoid.com/scan/prweb.com                                                      ==> 0/25      
 ERROR <URLVoid>:                                                                           ==> [Errno 10054] An existing connection was forcibly closed by the remote host
 
-Response sent to Mendez, Danny (NBCUniversal)                                              ==> SPAM      
+Response sent to Mendez, Danny (Company_Name)                                              ==> SPAM      
 
 ************************************************************************************************************************
 ***************************************** SPAM Response Automation 2016-07-12 ******************************************
@@ -2250,7 +2158,7 @@ Thank you!
 
 
 ************************************************************************************************************************
-Email Sender:  Franks, Josette (NBCUniversal)
+Email Sender:  Franks, Josette (Company_Name)
 Email Subject:  FW: Travel Pay: Handling it Correctly
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -2260,17 +2168,17 @@ INFO: Attachments found. Verifying now....
 http://www.urlvoid.com/scan/skilleducators.us13.list-manage1.com                           ==> 0/25      
 http://www.urlvoid.com/scan/skilleducators.us13.list-manage.com                            ==> 0/25      
 
-Response sent to Franks, Josette (NBCUniversal)                                            ==> SPAM      
+Response sent to Franks, Josette (Company_Name)                                            ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Abrahamsen, Robert (NBCUniversal)
+Email Sender:  Abrahamsen, Robert (Company_Name)
 Email Subject:  Fwd: What to Expect from the TSCA Reform Act
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
 
 http://www.urlvoid.com/scan/news.onlinecompliancepanel.com                                 ==> 1/25      
 
-Response sent to Abrahamsen, Robert (NBCUniversal)                                         ==> SPAM      
+Response sent to Abrahamsen, Robert (Company_Name)                                         ==> SPAM      
 
 ************************************************************************************************************************
 ***************************************** SPAM Response Automation 2016-07-12 ******************************************
@@ -2282,17 +2190,17 @@ Thank you!
 
 
 ************************************************************************************************************************
-Email Sender:  Hall, Jessica (NBCUniversal)
+Email Sender:  Hall, Jessica (Company_Name)
 Email Subject:  FW: Follow up on your interest
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
 
 http://www.urlvoid.com/scan/joanassistant.com                                              ==> 0/25      
 
-Response sent to Hall, Jessica (NBCUniversal)                                              ==> SPAM      
+Response sent to Hall, Jessica (Company_Name)                                              ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Tiongson, Karen (NBCUniversal)
+Email Sender:  Tiongson, Karen (Company_Name)
 Email Subject:  Phishing Email?
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -2301,11 +2209,11 @@ INFO: Attachments found. Verifying now....
 
 http://www.urlvoid.com/scan/portal.euromonitor.com                                         ==> 0/25      
 
-Response sent to Tiongson, Karen (NBCUniversal)                                            ==> SPAM      
+Response sent to Tiongson, Karen (Company_Name)                                            ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Alban, Michelle (NBCUniversal, TLMD)
-Email Subject:  FW: NBCUniversal Hispanic
+Email Sender:  Alban, Michelle (Company_Name, TLMD)
+Email Subject:  FW: Company_Name Hispanic
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
 
@@ -2313,7 +2221,7 @@ INFO: Attachments found. Verifying now....
 
 http://www.urlvoid.com/scan/goo.gl                                                         ==> 2/25      
 
-Response sent to spam.analysis@nbcuni.com                                                  ==> Analysis  
+Response sent to spam.analysis@Company-Name.com                                                  ==> Analysis  
 
 ************************************************************************************************************************
 ***************************************** SPAM Response Automation 2016-07-12 ******************************************
@@ -2325,7 +2233,7 @@ Thank you!
 
 
 ************************************************************************************************************************
-Email Sender:  Birnbach, Gennifer (NBCUniversal)
+Email Sender:  Birnbach, Gennifer (Company_Name)
 Email Subject:  Re: Urgent Attention
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -2333,7 +2241,7 @@ URLvoid scanned URL                                                             
 INFO: Attachments found. Verifying now....
 
 
-Response sent to spam.analysis@nbcuni.com                                                  ==> Analysis  
+Response sent to spam.analysis@Company-Name.com                                                  ==> Analysis  
 
 ************************************************************************************************************************
 ***************************************** SPAM Response Automation 2016-07-12 ******************************************
@@ -2345,7 +2253,7 @@ Thank you!
 
 
 ************************************************************************************************************************
-Email Sender:  Weiss, Teri (NBCUniversal)
+Email Sender:  Weiss, Teri (Company_Name)
 Email Subject:  FW: Online Deposit.
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -2353,10 +2261,10 @@ URLvoid scanned URL                                                             
 INFO: Attachments found. Verifying now....
 
 
-Response sent to spam.analysis@nbcuni.com                                                  ==> Analysis  
+Response sent to spam.analysis@Company-Name.com                                                  ==> Analysis  
 
 ************************************************************************************************************************
-Email Sender:  Sarabia, Anthony (NBCUniversal)
+Email Sender:  Sarabia, Anthony (Company_Name)
 Email Subject:  Spam or Virus?
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -2370,7 +2278,7 @@ http://www.urlvoid.com/scan/gcahrh8igg.eoapxl.com                               
 http://www.urlvoid.com/scan/forms.bradyid.com                                              ==> 0/25      
 http://www.urlvoid.com/scan/bradyid.com                                                    ==> 0/25      
 
-Response sent to Sarabia, Anthony (NBCUniversal)                                           ==> SPAM      
+Response sent to Sarabia, Anthony (Company_Name)                                           ==> SPAM      
 
 ************************************************************************************************************************
 ***************************************** SPAM Response Automation 2016-07-12 ******************************************
@@ -2382,7 +2290,7 @@ Thank you!
 
 
 ************************************************************************************************************************
-Email Sender:  Bergman, Cory (NBCUniversal)
+Email Sender:  Bergman, Cory (Company_Name)
 Email Subject:  Phishing attempt
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -2392,10 +2300,10 @@ INFO: Attachments found. Verifying now....
 ERROR <URLVoid>:                                                                           ==> [Errno 10054] An existing connection was forcibly closed by the remote host
 http://www.urlvoid.com/scan/avast.com                                                      ==> 0/25      
 
-Response sent to Bergman, Cory (NBCUniversal)                                              ==> SPAM      
+Response sent to Bergman, Cory (Company_Name)                                              ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Weiss, Teri (NBCUniversal)
+Email Sender:  Weiss, Teri (Company_Name)
 Email Subject:  FW: RE- Online Deposit.
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -2403,7 +2311,7 @@ URLvoid scanned URL                                                             
 INFO: Attachments found. Verifying now....
 
 
-Response sent to Weiss, Teri (NBCUniversal)                                                ==> SPAM      
+Response sent to Weiss, Teri (Company_Name)                                                ==> SPAM      
 
 ************************************************************************************************************************
 ***************************************** SPAM Response Automation 2016-07-12 ******************************************
@@ -2415,14 +2323,14 @@ Thank you!
 
 
 ************************************************************************************************************************
-Email Sender:  Stone, Wendy (NBCUniversal)
+Email Sender:  Stone, Wendy (Company_Name)
 Email Subject:  FW: Wendy, Participate in a a Vehicle and Asset Tracking Survey, Receive a $10 Starbucks Card
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
 
 ERROR <URLVoid>:                                                                           ==> [Errno 10054] An existing connection was forcibly closed by the remote host
 
-Response sent to Stone, Wendy (NBCUniversal)                                               ==> SPAM      
+Response sent to Stone, Wendy (Company_Name)                                               ==> SPAM      
 
 ************************************************************************************************************************
 Email Sender:  Julia Morton
@@ -2447,7 +2355,7 @@ Thank you!
 
 
 ************************************************************************************************************************
-Email Sender:  Lazration, John (NBCUniversal)
+Email Sender:  Lazration, John (Company_Name)
 Email Subject:  Spam 07/13/16
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -2456,10 +2364,10 @@ INFO: Attachments found. Verifying now....
 
 http://www.urlvoid.com/scan/go.cfo.com                                                     ==> 0/25      
 
-Response sent to Lazration, John (NBCUniversal)                                            ==> SPAM      
+Response sent to Lazration, John (Company_Name)                                            ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Calvert, Sarah (NBCUniversal)
+Email Sender:  Calvert, Sarah (Company_Name)
 Email Subject:  FW: Stand out at IWF Atlanta with a top quality video
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -2468,7 +2376,7 @@ INFO: Attachments found. Verifying now....
 
 http://www.urlvoid.com/scan/web.vonazon.com                                                ==> 0/25      
 
-Response sent to Calvert, Sarah (NBCUniversal)                                             ==> SPAM      
+Response sent to Calvert, Sarah (Company_Name)                                             ==> SPAM      
 
 ************************************************************************************************************************
 ***************************************** SPAM Response Automation 2016-07-13 ******************************************
@@ -2504,7 +2412,7 @@ http://www.urlvoid.com/scan/hotels-scaner.com                                   
 Response sent to Pogoda, Donald (SNY)                                                      ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Parrish, Kevin (NBCUniversal)
+Email Sender:  Parrish, Kevin (Company_Name)
 Email Subject:  Fw: usemy.xyz invites you to be a part of our journey
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -2520,7 +2428,7 @@ http://www.urlvoid.com/scan/usemy.xyz                                           
 http://www.urlvoid.com/scan/facebook.com                                                   ==> 0/25      
 http://www.urlvoid.com/scan/instagram.com                                                  ==> 2/25      
 
-Response sent to spam.analysis@nbcuni.com                                                  ==> Analysis  
+Response sent to spam.analysis@Company-Name.com                                                  ==> Analysis  
 
 ************************************************************************************************************************
 ***************************************** SPAM Response Automation 2016-07-13 ******************************************
@@ -2532,7 +2440,7 @@ Thank you!
 
 
 ************************************************************************************************************************
-Email Sender:  Chaput, Mark (NBCUniversal)
+Email Sender:  Chaput, Mark (Company_Name)
 Email Subject:  Spam attached
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -2547,10 +2455,10 @@ http://www.urlvoid.com/scan/amadeus-ent.us13.list-manage1.com                   
 http://www.urlvoid.com/scan/ci3.googleusercontent.com                                      ==> 0/25      
 http://www.urlvoid.com/scan/docs.google.com                                                ==> 2/25      
 
-Response sent to spam.analysis@nbcuni.com                                                  ==> Analysis  
+Response sent to spam.analysis@Company-Name.com                                                  ==> Analysis  
 
 ************************************************************************************************************************
-Email Sender:  Tesch, Ben (NBCUniversal)
+Email Sender:  Tesch, Ben (Company_Name)
 Email Subject:  FW: Document
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -2560,10 +2468,10 @@ INFO: Attachments found. Verifying now....
 http://www.urlvoid.com/scan/hr-soundlight.cz                                               ==> 1/25      
 ERROR <URLVoid>:                                                                           ==> 'NoneType' object has no attribute 'text'
 
-Response sent to Tesch, Ben (NBCUniversal)                                                 ==> SPAM      
+Response sent to Tesch, Ben (Company_Name)                                                 ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Tesch, Ben (NBCUniversal)
+Email Sender:  Tesch, Ben (Company_Name)
 Email Subject:  FW: July 14 | Executive Webinar- Dont just update your resume - Revamp it instead
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -2574,7 +2482,7 @@ http://www.urlvoid.com/scan/go.netcomlearning.com                               
 http://www.urlvoid.com/scan/staging.netcomlearning.com                                     ==> 0/25      
 http://www.urlvoid.com/scan/mkt.netcomlearning.com                                         ==> 0/25      
 
-Response sent to Tesch, Ben (NBCUniversal)                                                 ==> SPAM      
+Response sent to Tesch, Ben (Company_Name)                                                 ==> SPAM      
 
 ************************************************************************************************************************
 Email Sender:  Julia Morton
@@ -2585,7 +2493,7 @@ URLvoid scanned URL                                                             
 INFO: Attachments found. Verifying now....
 
 
-Response sent to spam.analysis@nbcuni.com                                                  ==> Analysis  
+Response sent to spam.analysis@Company-Name.com                                                  ==> Analysis  
 
 ************************************************************************************************************************
 Email Sender:  Julia Morton
@@ -2601,7 +2509,7 @@ http://www.urlvoid.com/scan/panel.sendmsg.co.il                                 
 Response sent to Julia Morton                                                              ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Roseman, Jean (NBCUniversal)
+Email Sender:  Roseman, Jean (Company_Name)
 Email Subject:  Spam...from "help desk"?
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -2660,17 +2568,17 @@ http://www.urlvoid.com/scan/info.keylimeinteractive.com                         
 Response sent to Julia Morton                                                              ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Booker, Kalia (NBCUniversal)
+Email Sender:  Booker, Kalia (Company_Name)
 Email Subject:  Fwd: Screenplays
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
 
 http://www.urlvoid.com/scan/linkedin.com                                                   ==> 0/25      
 
-Response sent to Booker, Kalia (NBCUniversal)                                              ==> SPAM      
+Response sent to Booker, Kalia (Company_Name)                                              ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Tesch, Ben (NBCUniversal)
+Email Sender:  Tesch, Ben (Company_Name)
 Email Subject:  FW: Enhance your skills with our upcoming Hot Schedules
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -2679,10 +2587,10 @@ INFO: Attachments found. Verifying now....
 
 http://www.urlvoid.com/scan/go.netcomlearning.com                                          ==> 0/25      
 
-Response sent to Tesch, Ben (NBCUniversal)                                                 ==> SPAM      
+Response sent to Tesch, Ben (Company_Name)                                                 ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Tesch, Ben (NBCUniversal)
+Email Sender:  Tesch, Ben (Company_Name)
 Email Subject:  FW: FW- Have you seen this helpful guide on what fast food does to the body?
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -2692,10 +2600,10 @@ INFO: Attachments found. Verifying now....
 http://www.urlvoid.com/scan/healthline.com                                                 ==> 0/25      
 http://www.urlvoid.com/scan/breakingnews.tumblr.com                                        ==> 0/25      
 
-Response sent to Tesch, Ben (NBCUniversal)                                                 ==> SPAM      
+Response sent to Tesch, Ben (Company_Name)                                                 ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Chiandusse, Elizabeth (NBCUniversal)
+Email Sender:  Chiandusse, Elizabeth (Company_Name)
 Email Subject:  FW: Enhance your skills with our upcoming Hot Schedules
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -2704,10 +2612,10 @@ INFO: Attachments found. Verifying now....
 
 http://www.urlvoid.com/scan/go.netcomlearning.com                                          ==> 0/25      
 
-Response sent to Chiandusse, Elizabeth (NBCUniversal)                                      ==> SPAM      
+Response sent to Chiandusse, Elizabeth (Company_Name)                                      ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Chaput, Mark (NBCUniversal)
+Email Sender:  Chaput, Mark (Company_Name)
 Email Subject:  Spam attached
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -2719,10 +2627,10 @@ http://www.urlvoid.com/scan/devilworks.us7.list-manage.com                      
 ERROR <URLVoid>:                                                                           ==> [Errno 10054] An existing connection was forcibly closed by the remote host
 http://www.urlvoid.com/scan/devilworks.us7.list-manage1.com                                ==> 0/25      
 
-Response sent to Chaput, Mark (NBCUniversal)                                               ==> SPAM      
+Response sent to Chaput, Mark (Company_Name)                                               ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  VanAken, Andy (NBCUniversal)
+Email Sender:  VanAken, Andy (Company_Name)
 Email Subject:  FW: Enhance your skills with our upcoming Hot Schedules
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -2732,10 +2640,10 @@ INFO: Attachments found. Verifying now....
 http://www.urlvoid.com/scan/pitchnbc.com                                                   ==> 0/25      
 http://www.urlvoid.com/scan/go.netcomlearning.com                                          ==> 0/25      
 
-Response sent to VanAken, Andy (NBCUniversal)                                              ==> SPAM      
+Response sent to VanAken, Andy (Company_Name)                                              ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Dominitz, Jennifer (NBCUniversal)
+Email Sender:  Dominitz, Jennifer (Company_Name)
 Email Subject:  spam
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -2745,10 +2653,10 @@ INFO: Attachments found. Verifying now....
 http://www.urlvoid.com/scan/jump.hornblower.com                                            ==> 0/25      
 http://www.urlvoid.com/scan/cruises.hornblower.com                                         ==> 0/25      
 
-Response sent to Dominitz, Jennifer (NBCUniversal)                                         ==> SPAM      
+Response sent to Dominitz, Jennifer (Company_Name)                                         ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Kim, Tae (NBCUniversal, TLMD)
+Email Sender:  Kim, Tae (Company_Name, TLMD)
 Email Subject:  spam
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -2760,10 +2668,10 @@ http://www.urlvoid.com/scan/nasdaq.com                                          
 http://www.urlvoid.com/scan/lpl.com                                                        ==> 0/25      
 http://www.urlvoid.com/scan/globenewswire.com                                              ==> 0/25      
 
-Response sent to Kim, Tae (NBCUniversal, TLMD)                                             ==> SPAM      
+Response sent to Kim, Tae (Company_Name, TLMD)                                             ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Ventolo, Gary (NBCUniversal)
+Email Sender:  Ventolo, Gary (Company_Name)
 Email Subject:  FW: Urgent Attention
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -2772,10 +2680,10 @@ INFO: Attachments found. Verifying now....
 
 http://www.urlvoid.com/scan/sso.inbcu.com                                                  ==> 0/25      
 
-Response sent to Ventolo, Gary (NBCUniversal)                                              ==> SPAM      
+Response sent to Ventolo, Gary (Company_Name)                                              ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Delaney, Karen (NBCUniversal)
+Email Sender:  Delaney, Karen (Company_Name)
 Email Subject:  Spam password change email
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -2791,7 +2699,7 @@ Thank you!
 
 
 ************************************************************************************************************************
-Email Sender:  Campbell, Deanna (NBCUniversal)
+Email Sender:  Campbell, Deanna (Company_Name)
 Email Subject:  FW: Pay the Right Price for VoIP: 2016 Business VoIP Cost Guide
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -2805,10 +2713,10 @@ http://www.urlvoid.com/scan/comparebusinessproducts.us9.list-manage.com         
 http://www.urlvoid.com/scan/comparebusinessproducts.us9.list-manage1.com                   ==> 0/25      
 http://www.urlvoid.com/scan/comparebusinessproducts.us9.list-manage2.com                   ==> 0/25      
 
-Response sent to Campbell, Deanna (NBCUniversal)                                           ==> SPAM      
+Response sent to Campbell, Deanna (Company_Name)                                           ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Kline, Tom (NBCUniversal)
+Email Sender:  Kline, Tom (Company_Name)
 Email Subject:  Spam disguised as a friend
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -2817,10 +2725,10 @@ INFO: Attachments found. Verifying now....
 
 ERROR <URLVoid>:                                                                           ==> [Errno 10054] An existing connection was forcibly closed by the remote host
 
-Response sent to Kline, Tom (NBCUniversal)                                                 ==> SPAM      
+Response sent to Kline, Tom (Company_Name)                                                 ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Mears, Marilyn (NBCUniversal)
+Email Sender:  Mears, Marilyn (Company_Name)
 Email Subject:  Spam
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -2833,10 +2741,10 @@ http://www.urlvoid.com/scan/ci4.googleusercontent.com                           
 http://www.urlvoid.com/scan/ci5.googleusercontent.com                                      ==> 0/25      
 http://www.urlvoid.com/scan/bit.ly                                                         ==> 2/25      
 
-Response sent to spam.analysis@nbcuni.com                                                  ==> Analysis  
+Response sent to spam.analysis@Company-Name.com                                                  ==> Analysis  
 
 ************************************************************************************************************************
-Email Sender:  Pierce, Sage (NBCUniversal)
+Email Sender:  Pierce, Sage (Company_Name)
 Email Subject:  Spam
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -2844,10 +2752,10 @@ URLvoid scanned URL                                                             
 INFO: Attachments found. Verifying now....
 
 
-Response sent to Pierce, Sage (NBCUniversal)                                               ==> SPAM      
+Response sent to Pierce, Sage (Company_Name)                                               ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Bennett, Sue(NBCUniversal)
+Email Sender:  Bennett, Sue(Company_Name)
 Email Subject:  FW: Urgent Attention
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -2863,7 +2771,7 @@ Thank you!
 
 
 ************************************************************************************************************************
-Email Sender:  Banta, Carolyn (NBCUniversal)
+Email Sender:  Banta, Carolyn (Company_Name)
 Email Subject:  FW: Deploying  A Successful Analytics Proof Of Concept
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -2871,20 +2779,20 @@ URLvoid scanned URL                                                             
 http://www.urlvoid.com/scan/offers.strategycompanion.com                                   ==> 0/25      
 http://www.urlvoid.com/scan/mkto-ab090048.com                                              ==> 0/25      
 
-Response sent to Banta, Carolyn (NBCUniversal)                                             ==> SPAM      
+Response sent to Banta, Carolyn (Company_Name)                                             ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Abreu, Fausto (NBCUniversal)
+Email Sender:  Abreu, Fausto (Company_Name)
 Email Subject:  FW: Your Email storage is almost full.
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
 
 http://www.urlvoid.com/scan/cpitelecom.net                                                 ==> 1/25      
 
-Response sent to Abreu, Fausto (NBCUniversal)                                              ==> SPAM      
+Response sent to Abreu, Fausto (Company_Name)                                              ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Bruton, Paul (NBCUniversal)
+Email Sender:  Bruton, Paul (Company_Name)
 Email Subject:  FW: First Style Blogger to Cover Political Conventions at RNC & DNC
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -2898,10 +2806,10 @@ http://www.urlvoid.com/scan/twitter.com                                         
 http://www.urlvoid.com/scan/facebook.com                                                   ==> 0/25      
 http://www.urlvoid.com/scan/instagram.com                                                  ==> 2/25      
 
-Response sent to spam.analysis@nbcuni.com                                                  ==> Analysis  
+Response sent to spam.analysis@Company-Name.com                                                  ==> Analysis  
 
 ************************************************************************************************************************
-Email Sender:  Lazration, John (NBCUniversal)
+Email Sender:  Lazration, John (Company_Name)
 Email Subject:  Spam
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -2910,10 +2818,10 @@ INFO: Attachments found. Verifying now....
 
 http://www.urlvoid.com/scan/tzng.news1747b.ru                                              ==> 0/25      
 
-Response sent to Lazration, John (NBCUniversal)                                            ==> SPAM      
+Response sent to Lazration, John (Company_Name)                                            ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Nosrat, Pasha (NBCUniversal)
+Email Sender:  Nosrat, Pasha (Company_Name)
 Email Subject:  this is definitely spam-ish
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -2922,10 +2830,10 @@ INFO: Attachments found. Verifying now....
 
 http://www.urlvoid.com/scan/cpitelecom.net                                                 ==> 1/25      
 
-Response sent to Nosrat, Pasha (NBCUniversal)                                              ==> SPAM      
+Response sent to Nosrat, Pasha (Company_Name)                                              ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Abdullah, Halimah (NBCUniversal)
+Email Sender:  Abdullah, Halimah (Company_Name)
 Email Subject:  FW: Quotation Required
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -2933,10 +2841,10 @@ URLvoid scanned URL                                                             
 INFO: Attachments found. Verifying now....
 
 
-Response sent to spam.analysis@nbcuni.com                                                  ==> Analysis  
+Response sent to spam.analysis@Company-Name.com                                                  ==> Analysis  
 
 ************************************************************************************************************************
-Email Sender:  Putch, Pam (NBCUniversal)
+Email Sender:  Putch, Pam (Company_Name)
 Email Subject:  Fwd: Live Tomorrow- MS OneNote: Powerful Tools For Note-Taking, Organizing Data & Tasks and Integrating With Ease To Save Time
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -2946,10 +2854,10 @@ http://www.urlvoid.com/scan/ei.rlcdn.com                                        
 http://www.urlvoid.com/scan/er.prod.verticalresponse.com                                   ==> 0/25      
 http://www.urlvoid.com/scan/tag.crsspxl.com                                                ==> 0/25      
 
-Response sent to Putch, Pam (NBCUniversal)                                                 ==> SPAM      
+Response sent to Putch, Pam (Company_Name)                                                 ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Nolan, Jenna (NBCUniversal)
+Email Sender:  Nolan, Jenna (Company_Name)
 Email Subject:  FW: Kellan Lutz Joins Dr. Mir on GLAMMIR!!!
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -2960,10 +2868,10 @@ http://www.urlvoid.com/scan/ci3.googleusercontent.com                           
 http://www.urlvoid.com/scan/gallery.mailchimp.com                                          ==> 1/25      
 http://www.urlvoid.com/scan/cdn-images.mailchimp.com                                       ==> 0/25      
 
-Response sent to Nolan, Jenna (NBCUniversal)                                               ==> SPAM      
+Response sent to Nolan, Jenna (Company_Name)                                               ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Wales, Ryan (NBCUniversal)
+Email Sender:  Wales, Ryan (Company_Name)
 Email Subject:  Fwd: Are You Going?
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -2975,10 +2883,10 @@ http://www.urlvoid.com/scan/campaigns.addresstwo.com                            
 http://www.urlvoid.com/scan/back9mediagroup.com                                            ==> 0/25      
 http://www.urlvoid.com/scan/trk.addresstwo.com                                             ==> 0/25      
 
-Response sent to Wales, Ryan (NBCUniversal)                                                ==> SPAM      
+Response sent to Wales, Ryan (Company_Name)                                                ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Widerlite, Elise (NBCUniversal)
+Email Sender:  Widerlite, Elise (Company_Name)
 Email Subject:  SPAM Email
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -2987,27 +2895,27 @@ INFO: Attachments found. Verifying now....
 
 http://www.urlvoid.com/scan/sdr.salesloft.com                                              ==> 0/25      
 
-Response sent to Widerlite, Elise (NBCUniversal)                                           ==> SPAM      
+Response sent to Widerlite, Elise (Company_Name)                                           ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Widerlite, Elise (NBCUniversal)
-Email Subject:  FW: NBCUniversal, Inc. contact
+Email Sender:  Widerlite, Elise (Company_Name)
+Email Subject:  FW: Company_Name, Inc. contact
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
 
 http://www.urlvoid.com/scan/sdr.salesloft.com                                              ==> 0/25      
 
-Response sent to Widerlite, Elise (NBCUniversal)                                           ==> SPAM      
+Response sent to Widerlite, Elise (Company_Name)                                           ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Abrahamsen, Robert (NBCUniversal)
+Email Sender:  Abrahamsen, Robert (Company_Name)
 Email Subject:  Fwd: Reporting Nominal Ordinal and Continuous Levels of Measurement
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
 
 http://www.urlvoid.com/scan/news.onlinecompliancepanel.com                                 ==> 1/25      
 
-Response sent to Abrahamsen, Robert (NBCUniversal)                                         ==> SPAM      
+Response sent to Abrahamsen, Robert (Company_Name)                                         ==> SPAM      
 
 ************************************************************************************************************************
 ***************************************** SPAM Response Automation 2016-07-14 ******************************************
@@ -3019,7 +2927,7 @@ Thank you!
 
 
 ************************************************************************************************************************
-Email Sender:  Waterfield, Kathryn (NBCUniversal)
+Email Sender:  Waterfield, Kathryn (Company_Name)
 Email Subject:  spam
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -3029,10 +2937,10 @@ INFO: Attachments found. Verifying now....
 http://www.urlvoid.com/scan/cdn01.boxcdn.net                                               ==> 0/25      
 http://www.urlvoid.com/scan/bit.ly                                                         ==> 2/25      
 
-Response sent to spam.analysis@nbcuni.com                                                  ==> Analysis  
+Response sent to spam.analysis@Company-Name.com                                                  ==> Analysis  
 
 ************************************************************************************************************************
-Email Sender:  Ester, Rocio (NBCUniversal)
+Email Sender:  Ester, Rocio (Company_Name)
 Email Subject:  FW: Unauthorized Use of Universal Studios Home Entertainment's Property
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -3046,20 +2954,20 @@ http://www.urlvoid.com/scan/youtube.com                                         
 http://www.urlvoid.com/scan/lopeordelaweb.li                                               ==> 0/25      
 http://www.urlvoid.com/scan/solidfiles.com                                                 ==> 2/25      
 
-Response sent to spam.analysis@nbcuni.com                                                  ==> Analysis  
+Response sent to spam.analysis@Company-Name.com                                                  ==> Analysis  
 
 ************************************************************************************************************************
-Email Sender:  Ester, Rocio (NBCUniversal)
+Email Sender:  Ester, Rocio (Company_Name)
 Email Subject:  FW: [CLAIM #670490276897676171] Copyright infringement claim has been evaluated
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
 
 http://www.urlvoid.com/scan/solidfiles.com                                                 ==> 2/25      
 
-Response sent to spam.analysis@nbcuni.com                                                  ==> Analysis  
+Response sent to spam.analysis@Company-Name.com                                                  ==> Analysis  
 
 ************************************************************************************************************************
-Email Sender:  Ester, Rocio (NBCUniversal)
+Email Sender:  Ester, Rocio (Company_Name)
 Email Subject:  FW: Unauthorized Use of Universal Studios Home Entertainment's Property
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -3073,10 +2981,10 @@ http://www.urlvoid.com/scan/youtube.com                                         
 http://www.urlvoid.com/scan/lopeordelaweb.li                                               ==> 0/25      
 http://www.urlvoid.com/scan/solidfiles.com                                                 ==> 2/25      
 
-Response sent to spam.analysis@nbcuni.com                                                  ==> Analysis  
+Response sent to spam.analysis@Company-Name.com                                                  ==> Analysis  
 
 ************************************************************************************************************************
-Email Sender:  Kapdi, Shreya (NBCUniversal)
+Email Sender:  Kapdi, Shreya (Company_Name)
 Email Subject:  
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -3091,7 +2999,7 @@ http://www.urlvoid.com/scan/ei.rlcdn.com                                        
 http://www.urlvoid.com/scan/er.prod.verticalresponse.com                                   ==> 0/25      
 http://www.urlvoid.com/scan/tag.crsspxl.com                                                ==> 0/25      
 
-Response sent to Kapdi, Shreya (NBCUniversal)                                              ==> SPAM      
+Response sent to Kapdi, Shreya (Company_Name)                                              ==> SPAM      
 
 ************************************************************************************************************************
 ***************************************** SPAM Response Automation 2016-07-19 ******************************************
@@ -3103,27 +3011,27 @@ Thank you!
 
 
 ************************************************************************************************************************
-Email Sender:  Bausch, Alyssa (NBCUniversal)
+Email Sender:  Bausch, Alyssa (Company_Name)
 Email Subject:  FW: CXO Breakfast Sessions Opportunity for Comcast Corporation
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
 
 http://www.urlvoid.com/scan/go.netcomlearning.com                                          ==> 0/25      
 
-Response sent to Bausch, Alyssa (NBCUniversal)                                             ==> SPAM      
+Response sent to Bausch, Alyssa (Company_Name)                                             ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Bausch, Alyssa (NBCUniversal)
+Email Sender:  Bausch, Alyssa (Company_Name)
 Email Subject:  FW: Request for Meeting
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
 
 http://www.urlvoid.com/scan/go.netcomlearning.com                                          ==> 0/25      
 
-Response sent to Bausch, Alyssa (NBCUniversal)                                             ==> SPAM      
+Response sent to Bausch, Alyssa (Company_Name)                                             ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Strike, Anna (NBCUniversal)
+Email Sender:  Strike, Anna (Company_Name)
 Email Subject:  Spam Email
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -3135,10 +3043,10 @@ http://www.urlvoid.com/scan/ssl.gstatic.com                                     
 http://www.urlvoid.com/scan/pamthum.com                                                    ==> 0/25      
 http://www.urlvoid.com/scan/drive.google.com                                               ==> 2/25      
 
-Response sent to spam.analysis@nbcuni.com                                                  ==> Analysis  
+Response sent to spam.analysis@Company-Name.com                                                  ==> Analysis  
 
 ************************************************************************************************************************
-Email Sender:  Reiss, Max (NBCUniversal)
+Email Sender:  Reiss, Max (Company_Name)
 Email Subject:  FW: Purchase shower column direct from the manufacturer
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -3148,10 +3056,10 @@ INFO: Attachments found. Verifying now....
 http://www.urlvoid.com/scan/issuu.com                                                      ==> 0/25      
 http://www.urlvoid.com/scan/dydn.com.cn                                                    ==> 0/25      
 
-Response sent to Reiss, Max (NBCUniversal)                                                 ==> SPAM      
+Response sent to Reiss, Max (Company_Name)                                                 ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Turelli, Bert M (NBCUniversal, MSNBC)
+Email Sender:  Turelli, Bert M (Company_Name, MSNBC)
 Email Subject:  Fwd: DAM Chicago 2016 Early Bird Ends on Friday
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -3166,10 +3074,10 @@ http://www.urlvoid.com/scan/visitor.constantcontact.com                         
 http://www.urlvoid.com/scan/ui.constantcontact.com                                         ==> 0/25      
 http://www.urlvoid.com/scan/constantcontact.com                                            ==> 0/25      
 
-Response sent to Turelli, Bert M (NBCUniversal, MSNBC)                                     ==> SPAM      
+Response sent to Turelli, Bert M (Company_Name, MSNBC)                                     ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Reiss, Max (NBCUniversal)
+Email Sender:  Reiss, Max (Company_Name)
 Email Subject:  FW: GU10/MR16 LED Lamps
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -3177,10 +3085,10 @@ URLvoid scanned URL                                                             
 INFO: Attachments found. Verifying now....
 
 
-Response sent to Reiss, Max (NBCUniversal)                                                 ==> SPAM      
+Response sent to Reiss, Max (Company_Name)                                                 ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Reiss, Max (NBCUniversal)
+Email Sender:  Reiss, Max (Company_Name)
 Email Subject:  FW: BDA - Invoice No: 41366947 Acknowledgment
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -3188,10 +3096,10 @@ URLvoid scanned URL                                                             
 INFO: Attachments found. Verifying now....
 
 
-Response sent to spam.analysis@nbcuni.com                                                  ==> Analysis  
+Response sent to spam.analysis@Company-Name.com                                                  ==> Analysis  
 
 ************************************************************************************************************************
-Email Sender:  Carbone, Matt (NBCUniversal)
+Email Sender:  Carbone, Matt (Company_Name)
 Email Subject:  FW: Design With National Geographic, LinkedIn, Pinterest and more...
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -3200,10 +3108,10 @@ INFO: Attachments found. Verifying now....
 
 http://www.urlvoid.com/scan/go.cfo.com                                                     ==> 0/25      
 
-Response sent to Carbone, Matt (NBCUniversal)                                              ==> SPAM      
+Response sent to Carbone, Matt (Company_Name)                                              ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Money, Daniel (NBCUniversal)
+Email Sender:  Money, Daniel (Company_Name)
 Email Subject:  spam
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -3213,10 +3121,10 @@ INFO: Attachments found. Verifying now....
 http://www.urlvoid.com/scan/go.netcomlearning.com                                          ==> 0/25      
 http://www.urlvoid.com/scan/go.netcomlearning.com                                          ==> 0/25      
 
-Response sent to Money, Daniel (NBCUniversal)                                              ==> SPAM      
+Response sent to Money, Daniel (Company_Name)                                              ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Franks, Josette (NBCUniversal)
+Email Sender:  Franks, Josette (Company_Name)
 Email Subject:  FW: Form W-2 for 2016: Processing and Preparation
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -3228,10 +3136,10 @@ http://www.urlvoid.com/scan/skilleducators.us13.list-manage2.com                
 http://www.urlvoid.com/scan/skilleducators.us13.list-manage.com                            ==> 0/25      
 http://www.urlvoid.com/scan/skilleducators.us13.list-manage1.com                           ==> 0/25      
 
-Response sent to Franks, Josette (NBCUniversal)                                            ==> SPAM      
+Response sent to Franks, Josette (Company_Name)                                            ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Nakahara, Meg (NBCUniversal)
+Email Sender:  Nakahara, Meg (Company_Name)
 Email Subject:  Please block this e-mail address as they send spam. Thank you! 
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -3240,10 +3148,10 @@ INFO: Attachments found. Verifying now....
 
 ERROR <URLVoid>:                                                                           ==> 'NoneType' object has no attribute 'text'
 
-Response sent to Nakahara, Meg (NBCUniversal)                                              ==> SPAM      
+Response sent to Nakahara, Meg (Company_Name)                                              ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Johnson, Bill (NBCUniversal)
+Email Sender:  Johnson, Bill (Company_Name)
 Email Subject:  FW: Skybox Continues Its Growth in 2016
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -3256,10 +3164,10 @@ http://www.urlvoid.com/scan/skyboxdatacenters.us8.list-manage2.com              
 http://www.urlvoid.com/scan/skyboxdatacenters.us8.list-manage.com                          ==> 0/25      
 http://www.urlvoid.com/scan/skyboxdatacenters.us8.list-manage1.com                         ==> 0/25      
 
-Response sent to Johnson, Bill (NBCUniversal)                                              ==> SPAM      
+Response sent to Johnson, Bill (Company_Name)                                              ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Johnson, Bill (NBCUniversal)
+Email Sender:  Johnson, Bill (Company_Name)
 Email Subject:  FW: Skybox Continues Its Growth in 2016
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -3271,10 +3179,10 @@ http://www.urlvoid.com/scan/skyboxdatacenters.us8.list-manage2.com              
 http://www.urlvoid.com/scan/skyboxdatacenters.us8.list-manage.com                          ==> 0/25      
 http://www.urlvoid.com/scan/skyboxdatacenters.us8.list-manage1.com                         ==> 0/25      
 
-Response sent to Johnson, Bill (NBCUniversal)                                              ==> SPAM      
+Response sent to Johnson, Bill (Company_Name)                                              ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Mullen, Mark (NBCUniversal)
+Email Sender:  Mullen, Mark (Company_Name)
 Email Subject:  Fwd: BDA - Invoice No: 41367095 Acknowledgment
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -3282,19 +3190,19 @@ URLvoid scanned URL                                                             
 INFO: Attachments found. Verifying now....
 
 
-Response sent to spam.analysis@nbcuni.com                                                  ==> Analysis  
+Response sent to spam.analysis@Company-Name.com                                                  ==> Analysis  
 
 ************************************************************************************************************************
-Email Sender:  Cumming, Jason (NBCUniversal)
+Email Sender:  Cumming, Jason (Company_Name)
 Email Subject:  FW: QUOTE
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
 
 
-Response sent to Cumming, Jason (NBCUniversal)                                             ==> SPAM      
+Response sent to Cumming, Jason (Company_Name)                                             ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Loft, Jessica (NBCUniversal)
+Email Sender:  Loft, Jessica (Company_Name)
 Email Subject:  
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -3303,10 +3211,10 @@ INFO: Attachments found. Verifying now....
 
 http://www.urlvoid.com/scan/uk-vehicleleasing.uk                                           ==> 0/25      
 
-Response sent to Loft, Jessica (NBCUniversal)                                              ==> SPAM      
+Response sent to Loft, Jessica (Company_Name)                                              ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Kudyniuk, Andrej (NBCUniversal)
+Email Sender:  Kudyniuk, Andrej (Company_Name)
 Email Subject:  FW: Universal studios
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -3316,10 +3224,10 @@ INFO: Attachments found. Verifying now....
 http://www.urlvoid.com/scan/nbcu.service-now.com                                           ==> 0/25      
 http://www.urlvoid.com/scan/surveymonkey.com                                               ==> 0/25      
 
-Response sent to Kudyniuk, Andrej (NBCUniversal)                                           ==> SPAM      
+Response sent to Kudyniuk, Andrej (Company_Name)                                           ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Mersey, Jack (NBCUniversal)
+Email Sender:  Mersey, Jack (Company_Name)
 Email Subject:  FW: Your Fidelity Pension plan - insights and news around your retirement planning
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -3330,10 +3238,10 @@ http://www.urlvoid.com/scan/itunes.apple.com                                    
 http://www.urlvoid.com/scan/play.google.com                                                ==> 0/25      
 http://www.urlvoid.com/scan/fidelity.co.uk                                                 ==> 0/25      
 
-Response sent to Mersey, Jack (NBCUniversal)                                               ==> SPAM      
+Response sent to Mersey, Jack (Company_Name)                                               ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Gurovitsch, Julie (NBCUniversal)
+Email Sender:  Gurovitsch, Julie (Company_Name)
 Email Subject:  Fwd: Request for referral to IT Executive handling communications at Universal City Studios Productions
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -3342,10 +3250,10 @@ http://www.urlvoid.com/scan/messagegears.net                                    
 ERROR <URLVoid>:                                                                           ==> 'NoneType' object has no attribute 'text'
 http://www.urlvoid.com/scan/member.info-ring.com                                           ==> 0/25      
 
-Response sent to Gurovitsch, Julie (NBCUniversal)                                          ==> SPAM      
+Response sent to Gurovitsch, Julie (Company_Name)                                          ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Gnaulati, Ines (NBCUniversal)
+Email Sender:  Gnaulati, Ines (Company_Name)
 Email Subject:  FW: X Burger & Pina Colada
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -3355,10 +3263,10 @@ INFO: Attachments found. Verifying now....
 http://www.urlvoid.com/scan/5rjv.mjt.lu                                                    ==> 0/25      
 http://www.urlvoid.com/scan/claphamhouse.com                                               ==> 0/25      
 
-Response sent to Gnaulati, Ines (NBCUniversal)                                             ==> SPAM      
+Response sent to Gnaulati, Ines (Company_Name)                                             ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Stacey, Lloyd (NBCUniversal, CNBC)
+Email Sender:  Stacey, Lloyd (Company_Name, CNBC)
 Email Subject:  spam - I do not bank with barclays...
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -3367,10 +3275,10 @@ INFO: Attachments found. Verifying now....
 
 http://www.urlvoid.com/scan/capelaniaevangelicarj.com.br                                   ==> 5/25      
 
-Response sent to spam.analysis@nbcuni.com                                                  ==> Analysis  
+Response sent to spam.analysis@Company-Name.com                                                  ==> Analysis  
 
 ************************************************************************************************************************
-Email Sender:  Chaput, Mark (NBCUniversal)
+Email Sender:  Chaput, Mark (Company_Name)
 Email Subject:  Spam attached
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -3385,10 +3293,10 @@ http://www.urlvoid.com/scan/amadeus-ent.us13.list-manage1.com                   
 http://www.urlvoid.com/scan/ci3.googleusercontent.com                                      ==> 0/25      
 http://www.urlvoid.com/scan/docs.google.com                                                ==> 2/25      
 
-Response sent to spam.analysis@nbcuni.com                                                  ==> Analysis  
+Response sent to spam.analysis@Company-Name.com                                                  ==> Analysis  
 
 ************************************************************************************************************************
-Email Sender:  Melluso, John (NBCUniversal, Canada)
+Email Sender:  Melluso, John (Company_Name, Canada)
 Email Subject:  Potential Spam from earlier today
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -3397,10 +3305,10 @@ INFO: Attachments found. Verifying now....
 
 http://www.urlvoid.com/scan/lbec.news439c.ru                                               ==> 0/25      
 
-Response sent to Melluso, John (NBCUniversal, Canada)                                      ==> SPAM      
+Response sent to Melluso, John (Company_Name, Canada)                                      ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Ring, Sherry G. (NBCUniversal)
+Email Sender:  Ring, Sherry G. (Company_Name)
 Email Subject:  spam
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -3408,10 +3316,10 @@ URLvoid scanned URL                                                             
 INFO: Attachments found. Verifying now....
 
 
-Response sent to Ring, Sherry G. (NBCUniversal)                                            ==> SPAM      
+Response sent to Ring, Sherry G. (Company_Name)                                            ==> SPAM      
 
 ************************************************************************************************************************
-Email Sender:  Tesch, Ben (NBCUniversal)
+Email Sender:  Tesch, Ben (Company_Name)
 Email Subject:  FW: Esta app cambia tu voz. Prubala!
 
 URLvoid scanned URL                                                                        ==> URLvoid Rating
@@ -3422,6 +3330,6 @@ http://www.urlvoid.com/scan/lh3.googleusercontent.com                           
 http://www.urlvoid.com/scan/gstatic.com                                                    ==> 0/25      
 http://www.urlvoid.com/scan/plus.google.com                                                ==> 0/25      
 
-Response sent to Tesch, Ben (NBCUniversal)                                                 ==> SPAM      
+Response sent to Tesch, Ben (Company_Name)                                                 ==> SPAM      
 
 ************************************************************************************************************************
