@@ -4,9 +4,12 @@
 
 Please follow the following guidelines to successfully use the SAPM Response Automation
 
-1. Please make sure the spam[@]company-website.com mailbox is set as default mailbox in Outlook.exe 
+1. Please make sure the spam[@]company-name.com mailbox is set as default Data Files in Outlook 
 	(if not the script will fetch unread emails from your default mailbox; leading to 
 	 unexpected results)
+   Follow the following path to set default data file
+   a. Go to Outlook > File > Account Settings > Data Files 
+   b. Set spam[@]company-name.com as default Data Files
 
 2. Run the Spam_Response_Automation.py script just by double clicking it. Enjoy!!!!
 3. To stop the program simply close the program window or kill python process (careful)
