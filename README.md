@@ -4,7 +4,7 @@
 
 Please follow the following guidelines to successfully use the SAPM Response Automation
 
-1. Please make sure the spam[@]company-name.com mailbox is set as default Data Files in Outlook 
+1. Please make sure the analysis[@]company-name.com mailbox is set as default Data Files in Outlook 
 	(if not the script will fetch unread emails from your default mailbox; leading to 
 	 unexpected results)
    Follow the following path to set default data file
