@@ -18,7 +18,7 @@ URLvoid scanned URL                                                             
 http://www.urlvoid.com/scan/ebill0004.nnsend.com                                           ==> 0/25      
 http://www.urlvoid.com/scan/mandrillapp.com                                                ==> 1/25      
 
-Response sent to John Doe                                               				           ==> SPAM      
+Response sent to John Doe                                                                  ==> SPAM      
 
 ************************************************************************************************************************
 Email Sender:  John Doe  Email Subject:  SPAM of Fishing
@@ -28,7 +28,7 @@ URLvoid scanned URL                                                             
 INFO: Attachments found. Verifying now....
 
 
-Response sent to John Doe                                       					   	             ==> SPAM      
+Response sent to John Doe                                                                 ==> SPAM      
 
 ************************************************************************************************************************
 Email Sender:  Bill   Email Subject:  Fwd: (8) Incoming Messages On Hold
@@ -47,7 +47,7 @@ URLvoid scanned URL                                                             
 INFO: Attachments found. Verifying now....
 
 
-Response sent to Alex                                               					             ==> SPAM      
+Response sent to Alex                                                                      ==> SPAM      
 
 ************************************************************************************************************************
 
