@@ -103,12 +103,12 @@ Thank you for identifying this as a suspicious email. Your awareness and actions
  
 Please continue to be diligent in reporting suspicious messages.
 
-For more information on phishing and other tips to keep you cyber safe, visit our website at http://company-website.com/SAFE.
+For more information on phishing and other tips to keep you cyber safe, visit our website at http://company-website.com/Security.
 
 If you have any questions, please contact us.
 
-Technology SAFE
-http://company-website.com/SAFE
+Technology Security
+http://company-website.com/Security
 
 
 '''
@@ -133,7 +133,7 @@ SAFE Team
 
 	message.Send()
 
-	if recipient == 'spam.analysis@nbcuni.com':
+	if recipient == 'mail.analysis@company-name.com':
 		print '\n{0:90} ==> {1:10}\n'.format('Response sent to ' + str(recipient_name), 'Analysis')
 	else:
 		print '\n{0:90} ==> {1:10}\n'.format('Response sent to ' + str(recipient_name), 'SPAM')
